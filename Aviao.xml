@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AVIAO>
+		<BUSCA id='1'>
+			<ASSUNTO>avião</ASSUNTO>
+			<texto>Um avião é uma aeronave que é capaz de sustentar voo no ar através da utilização de motores de combustão interna ou de propulsão a jato, hélices ou uma combinação de ambos. Geralmente, os aviões são construídos com uma fuselagem (corpo), asas e um conjunto de motores. A fuselagem abriga a cabine de comando, onde os pilotos controlam a aeronave, e a cabine de passageiros, onde os passageiros viajam.
+				Os aviões são usados para uma variedade de fins, incluindo transporte de passageiros e carga, operações militares, pesquisa científica e exploração. Eles são uma forma de transporte rápido e eficiente, permitindo que as pessoas viajem grandes distâncias em um curto período de tempo. Além disso, a indústria da aviação tem um papel significativo na economia global, gerando empregos e impulsionando o comércio internacional.</texto>
+		</BUSCA>
+
+		<BUSCA id='2'>
+			<ASSUNTO>Quem inventou</ASSUNTO>
+			<texto>A invenção do avião é creditada aos irmãos Orville e Wilbur Wright, que construíram e voaram o primeiro avião controlável com sucesso em 17 de dezembro de 1903 em Kitty Hawk, na Carolina do Norte, nos Estados Unidos. O avião que eles projetaram e construíram, conhecido como Flyer, tinha uma envergadura de asa de 12 metros e era movido por um motor a gasolina de 12 cavalos de potência. O voo histórico durou apenas 12 segundos e cobriu uma distância de apenas 36 metros, mas foi um marco fundamental na história da aviação e abriu caminho para o desenvolvimento de aviões cada vez mais avançados. Desde então, a aviação evoluiu significativamente e tem sido fundamental para o desenvolvimento do transporte, da ciência e da tecnologia em todo o mundo.</texto>
+		</BUSCA>
+
+		<BUSCA id='3'>
+			<ASSUNTO>santos dumont</ASSUNTO>
+			<texto>Alberto Santos Dumont (1873-1932) foi um inventor, aviador e engenheiro brasileiro que é considerado por muitos como o pai da aviação. Ele é conhecido por seus feitos pioneiros no campo da aviação, incluindo a construção do primeiro avião com motor no Brasil e o primeiro voo de um avião autopropulsado em Paris, França, em 1906.
+				Santos Dumont nasceu em uma família rica em Minas Gerais, Brasil, e se mudou para Paris em 1891 para estudar engenharia. Lá, ele se tornou fascinado pela aviação e começou a projetar e construir seus próprios balões e dirigíveis. Em 1901, ele construiu o primeiro dirigível bem-sucedido, o "Santos Dumont nº 6", que foi capaz de fazer voos controlados e manobras.
+				Em 1906, Santos Dumont construiu o "14-bis", que se tornou o primeiro avião a decolar por seus próprios meios e voar por uma distância de mais de 50 metros. Este feito foi um marco significativo na história da aviação e atraiu a atenção mundial para Santos Dumont e seus trabalhos.
+				Além de suas contribuições para a aviação, Santos Dumont também era um defensor da tecnologia para o bem comum. Ele acreditava que a tecnologia deveria ser usada para melhorar a qualidade de vida das pessoas e tornar o mundo um lugar melhor. Santos Dumont faleceu em 1932 em circunstâncias trágicas, mas seu legado na aviação e na tecnologia continua vivo até hoje.</texto>
+		</BUSCA>
+
+		<BUSCA id='4'>
+			<ASSUNTO>14-bis</ASSUNTO>
+			<texto>O 14-bis foi um avião experimental projetado e construído pelo aviador brasileiro Alberto Santos Dumont em 1906. Ele recebeu esse nome porque era o décimo quarto modelo de aeronave construído por Santos Dumont.
+				O 14-bis tinha um motor de combustão interna, hélices duplas e uma estrutura de madeira leve e resistente, com asas em forma de asa delta. Em 23 de outubro de 1906, em um campo em Bagatelle, nos arredores de Paris, Santos Dumont pilotou o 14-bis em um voo que ficou registrado como o primeiro voo bem-sucedido de um avião autopropulsado na história da aviação.
+				O voo durou cerca de 21 segundos e percorreu uma distância de cerca de 60 metros a uma altura de cerca de 2 a 3 metros do solo. O feito de Santos Dumont foi considerado um marco na história da aviação, pois foi a primeira vez que um avião com motor, decolou por conta própria e voou uma distância significativa em um voo controlado.
+				O 14-bis é considerado um marco na história da aviação e é um símbolo da coragem e determinação de Santos Dumont em sua busca pela inovação e avanço tecnológico. O avião está em exibição no Museu Aeroespacial, localizado no Campo dos Afonsos, no Rio de Janeiro, Brasil.</texto>
+		</BUSCA>
+
+		<BUSCA id='5'>
+			<ASSUNTO>Alexander Fedorovich Mozhaysky</ASSUNTO>
+			<texto>Alexander Fedorovich Mozhaysky (1825-1890) foi um inventor e engenheiro russo, considerado um dos pioneiros da aviação. Ele é conhecido por seus trabalhos pioneiros em projetar e construir aeronaves movidas a motor a vapor.
+				Em 1876, Mozhaysky apresentou ao governo russo um projeto para uma aeronave movida a vapor chamada "Oryol". O projeto incluía planos para uma aeronave com uma envergadura de asa de 24 metros, que seria movida por um motor a vapor de 20 cavalos de potência. No entanto, o projeto não foi financiado e a aeronave nunca foi construída.
+				Mozhaysky também trabalhou em projetos de mísseis balísticos e submarinos. Em 1881, ele apresentou um projeto para um míssil balístico autopropelido que seria capaz de atingir alvos a uma distância de até 10.000 quilômetros. O projeto foi rejeitado pelo governo russo, que não viu um uso prático para a tecnologia na época.
+				Apesar de seus projetos pioneiros, Mozhaysky é pouco conhecido fora da Rússia e seus trabalhos não receberam o reconhecimento que mereciam em sua época. No entanto, ele é lembrado como um dos primeiros pioneiros da aviação e da tecnologia aeronáutica na história da Rússia.</texto>
+		</BUSCA>
+
+		<BUSCA id='6'>
+			<ASSUNTO>maior aviao a construido</ASSUNTO>
+			<texto>O maior avião já construído até hoje é o Antonov An-225 Mriya, uma aeronave de carga ucraniana. Ele foi projetado para transportar cargas pesadas, incluindo equipamentos militares, e tem capacidade para transportar até 250 toneladas.
+				O Antonov An-225 tem 84 metros de comprimento e uma envergadura de asa de 88,4 metros. Sua altura é de 18,1 metros e ele pode voar a uma velocidade máxima de cerca de 850 km/h. O avião possui seis motores turbojato Progress D-18T, que geram um total de 300.000 libras de empuxo.
+				O primeiro voo do Antonov An-225 ocorreu em 1988 e ele entrou em serviço em 2001. Atualmente, apenas um exemplar desse avião existe, e ele é operado pela empresa estatal ucraniana Antonov Airlines. O Antonov An-225 já foi utilizado para transportar uma variedade de cargas pesadas, incluindo locomotivas, geradores e turbinas de vento.
+				Devido ao seu tamanho impressionante, o Antonov An-225 é um dos aviões mais notáveis da aviação moderna. Ele é frequentemente usado em missões de ajuda humanitária para transportar suprimentos e equipamentos para regiões afetadas por desastres naturais ou conflitos militares.</texto>
+		</BUSCA>
+
+		<BUSCA id='7'>
+			<ASSUNTO>concord</ASSUNTO>
+			<texto>O Concorde foi um avião supersônico de passageiros que voou pela primeira vez em 1969 e operou comercialmente por quase 27 anos, de 1976 a 2003. Ele foi desenvolvido em um projeto conjunto entre a empresa francesa Aérospatiale e a empresa britânica British Aircraft Corporation.
+				O Concorde tinha uma velocidade de cruzeiro de cerca de Mach 2, o que significa que podia voar a duas vezes a velocidade do som. Ele era capaz de transportar até 128 passageiros em voos transatlânticos, reduzindo o tempo de viagem de Nova York a Londres de cerca de 7 horas para pouco mais de 3 horas.
+				No entanto, devido a uma série de fatores, incluindo altos custos operacionais, preocupações com a segurança e mudanças nas condições econômicas globais, a frota do Concorde foi retirada de serviço em 2003. Atualmente, não há planos para produzir outro avião supersônico comercial de passageiros.
+				Apesar disso, o Concorde permanece como um marco na história da aviação, sendo um símbolo do progresso tecnológico e um exemplo da capacidade humana de alcançar altas velocidades em voo. Além disso, muitos consideram o Concorde como um ícone do design aeronáutico e um exemplo de beleza e elegância em termos de design de aeronaves.</texto>
+		</BUSCA>
+
+		<BUSCA id='8'>
+			<ASSUNTO>boing 747</ASSUNTO>
+			<texto>O Boeing 747, também conhecido como "Jumbo Jet", é um avião comercial de grande porte desenvolvido pela fabricante norte-americana Boeing. Ele entrou em serviço em 1970 e se tornou um dos aviões mais icônicos da história da aviação.
+				O 747 foi projetado para transportar um grande número de passageiros em voos de longa distância. Ele tem uma capacidade de passageiros de até 660 pessoas, dependendo da configuração interna. Ele também pode transportar uma grande quantidade de carga em seu porão de carga, tornando-o popular para o transporte de carga aérea.
+				O avião tem uma envergadura de asa de cerca de 64 metros e uma altura de 19 metros. Sua velocidade de cruzeiro é de cerca de 900 km/h e ele pode voar a uma altitude de até 13.100 metros. Ele é movido por quatro motores a jato, que geram cerca de 63.000 libras de empuxo cada.
+				Ao longo de sua história, o Boeing 747 passou por diversas versões e atualizações, incluindo o 747-400, que foi a versão mais vendida do avião. Atualmente, o modelo 747-8 é a versão mais recente do avião e apresenta uma série de melhorias em relação às versões anteriores, incluindo motores mais eficientes em termos de combustível e uma maior capacidade de carga.
+				Embora o Boeing 747 tenha perdido parte de sua popularidade para aeronaves menores e mais eficientes em termos de combustível, ele continua sendo uma presença comum em muitas companhias aéreas em todo o mundo. Ele também permanece como um símbolo de avanço tecnológico e uma das aeronaves mais reconhecidas e icônicas da história da aviação.</texto>
+		</BUSCA>
+
+		<BUSCA id='9'>
+			<ASSUNTO>boeing 777</ASSUNTO>
+			<texto>O Boeing 777 é um avião comercial de grande porte desenvolvido pela fabricante norte-americana Boeing. Ele foi lançado em 1990 e entrou em serviço em 1995, sendo projetado para competir com o Airbus A330 e A340.
+				O 777 tem uma capacidade de passageiros de até 550 pessoas, dependendo da configuração interna, e é movido por dois motores a jato de alta potência. Ele tem uma envergadura de asa de cerca de 60 metros e uma altura de 19 metros. Sua velocidade de cruzeiro é de cerca de 900 km/h e ele pode voar a uma altitude de até 13.100 metros.
+				Uma das características mais notáveis do Boeing 777 é a sua eficiência em termos de combustível. Ele foi um dos primeiros aviões comerciais a apresentar um projeto de asa mais leve e mais eficiente em termos de combustível, além de motores mais eficientes e avanços na tecnologia de aviônicos. Isso tornou o 777 um dos aviões mais populares para rotas de longa distância em todo o mundo, especialmente em mercados altamente competitivos como as rotas transpacíficas.
+				O Boeing 777 também passou por diversas atualizações e melhorias ao longo dos anos, incluindo a introdução do 777X, que apresenta um projeto de asa redesenhado e motores ainda mais eficientes em termos de combustível. O 777X também apresenta uma maior capacidade de passageiros em comparação com as versões anteriores do avião.
+				Atualmente, o Boeing 777 é amplamente utilizado por companhias aéreas em todo o mundo para voos de longa distância e é considerado um dos aviões mais seguros e confiáveis da história da aviação.</texto>
+		</BUSCA>
+
+		<BUSCA id='10'>
+			<ASSUNTO>Embraer</ASSUNTO>
+			<texto>A Embraer é uma empresa brasileira que se dedica à fabricação de aviões comerciais, executivos, militares e agrícolas. Fundada em 1969, a Embraer é uma das principais fabricantes de aeronaves do mundo e tem sua sede em São José dos Campos, no estado de São Paulo.
+				Ao longo de sua história, a Embraer produziu uma série de aeronaves bem-sucedidas, incluindo o jato regional E-Jet, o jato executivo Phenom e o avião militar Super Tucano. A empresa também tem parcerias com outras fabricantes de aviões, como a Boeing e a Airbus, para a produção de peças e componentes para suas aeronaves.
+				Atualmente, a Embraer está passando por um processo de reestruturação após a venda de sua divisão de aviação comercial para a Boeing em 2019. A empresa continua focada na produção de jatos executivos e militares, bem como em soluções para o mercado de aviação, incluindo serviços de manutenção, reparo e revisão de aeronaves. A Embraer também está investindo em tecnologias inovadoras, como aeronaves elétricas e autônomas, como parte de sua estratégia de crescimento a longo prazo.</texto>
+		</BUSCA>
+
+</AVIAO>

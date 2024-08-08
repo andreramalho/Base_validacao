@@ -1,0 +1,2206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QUESTOES>
+	<INFO>
+	<MSG>Questoes parametrizadas para o trabalho.</MSG>
+	</INFO>
+
+	<QUESTAO qtsNo=' 1 '>
+		<ENUNCIADO>Um triângulo possui base de 8cm e a altura relativa a essa base igual a 7cm. A área desse triângulo é igual a:</ENUNCIADO>
+		<ALTERNATIVA_A>28cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>29cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>50cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>51cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>11cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 2 '>
+		<ENUNCIADO>Um triângulo possui base de 20cm e a altura relativa a essa base igual a 5cm. A área desse triângulo é igual a:</ENUNCIADO>
+		<ALTERNATIVA_A>50cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>63cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>7cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>56cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>55cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 3 '>
+		<ENUNCIADO>Um triângulo possui base de 7cm e a altura relativa a essa base igual a 16cm. A área desse triângulo é igual a:</ENUNCIADO>
+		<ALTERNATIVA_A>56cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>28cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>6cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>19cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>64cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 4 '>
+		<ENUNCIADO>Um triângulo possui base de 3cm e a altura relativa a essa base igual a 2cm. A área desse triângulo é igual a:</ENUNCIADO>
+		<ALTERNATIVA_A>3cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>3cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>3cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>3cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 5 '>
+		<ENUNCIADO>Um triângulo possui base de 10cm e a altura relativa a essa base igual a 15cm. A área desse triângulo é igual a:</ENUNCIADO>
+		<ALTERNATIVA_A>75cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>133cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>19cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>46cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>45cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 6 '>
+		<ENUNCIADO>Um triângulo possui base de 11cm e a altura relativa a essa base igual a 11cm. A área desse triângulo é igual a:</ENUNCIADO>
+		<ALTERNATIVA_A>60cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>66cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>106cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>44cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>61cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 7 '>
+		<ENUNCIADO>Um triângulo possui base de 8cm e a altura relativa a essa base igual a 3cm. A área desse triângulo é igual a:</ENUNCIADO>
+		<ALTERNATIVA_A>12cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>11cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>10cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>23cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>2cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 8 '>
+		<ENUNCIADO>Um triângulo possui base de 16cm e a altura relativa a essa base igual a 18cm. A área desse triângulo é igual a:</ENUNCIADO>
+		<ALTERNATIVA_A>144cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>202cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>220cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>252cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>67cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 9 '>
+		<ENUNCIADO>Um triângulo possui base de 10cm e a altura relativa a essa base igual a 2cm. A área desse triângulo é igual a:</ENUNCIADO>
+		<ALTERNATIVA_A>10cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>5cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>6cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>18cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 10 '>
+		<ENUNCIADO>Um triângulo possui base de 10cm e a altura relativa a essa base igual a 5cm. A área desse triângulo é igual a:</ENUNCIADO>
+		<ALTERNATIVA_A>25cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>4cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>1cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>49cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>43cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 11 '>
+		<ENUNCIADO>Um triângulo possui base de 6cm e a altura relativa a essa base igual a 4cm. A área desse triângulo é igual a:</ENUNCIADO>
+		<ALTERNATIVA_A>12cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>4cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>17cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>6cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>15cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 12 '>
+		<ENUNCIADO>Um triângulo possui base de 9cm e a altura relativa a essa base igual a 2cm. A área desse triângulo é igual a:</ENUNCIADO>
+		<ALTERNATIVA_A>9cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>10cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>1cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>16cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>11cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 13 '>
+		<ENUNCIADO>Um triângulo possui base de 3cm e a altura relativa a essa base igual a 17cm. A área desse triângulo é igual a:</ENUNCIADO>
+		<ALTERNATIVA_A>25cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>38cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>10cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>19cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>48cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 14 '>
+		<ENUNCIADO>Um triângulo possui base de 15cm e a altura relativa a essa base igual a 17cm. A área desse triângulo é igual a:</ENUNCIADO>
+		<ALTERNATIVA_A>127cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>145cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>254cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>163cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>57cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 15 '>
+		<ENUNCIADO>Um triângulo possui base de 11cm e a altura relativa a essa base igual a 16cm. A área desse triângulo é igual a:</ENUNCIADO>
+		<ALTERNATIVA_A>88cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>6cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>85cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>139cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>15cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 16 '>
+		<ENUNCIADO>Um triângulo possui base de 7cm e a altura relativa a essa base igual a 6cm. A área desse triângulo é igual a:</ENUNCIADO>
+		<ALTERNATIVA_A>21cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>9cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>9cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>5cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>18cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 17 '>
+		<ENUNCIADO>Um triângulo possui base de 6cm e a altura relativa a essa base igual a 15cm. A área desse triângulo é igual a:</ENUNCIADO>
+		<ALTERNATIVA_A>45cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>36cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>78cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>26cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>20cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 18 '>
+		<ENUNCIADO>Um triângulo possui base de 14cm e a altura relativa a essa base igual a 13cm. A área desse triângulo é igual a:</ENUNCIADO>
+		<ALTERNATIVA_A>91cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>145cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>140cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>28cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>20cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 19 '>
+		<ENUNCIADO>Um triângulo possui base de 5cm e a altura relativa a essa base igual a 5cm. A área desse triângulo é igual a:</ENUNCIADO>
+		<ALTERNATIVA_A>12cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>18cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>2cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>11cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>24cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 20 '>
+		<ENUNCIADO>Um triângulo possui base de 6cm e a altura relativa a essa base igual a 13cm. A área desse triângulo é igual a:</ENUNCIADO>
+		<ALTERNATIVA_A>39cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>2cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>3cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>7cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>31cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 21 '>
+		<ENUNCIADO>(Enem PPL 2020) Um caminhão de massa 5 toneladas, carregado com carga de 7.1 toneladas, tem eixos articulados que permitem fazer o uso de 4 a 12 pneus (aos pares) simultaneamente. O número de pneus em contato com o solo é determinado a fim de que a pressão exercida por cada pneu contra o solo não supere o dobro da pressão atmosférica. A área de contato entre cada pneu e o asfalto equivale à área de um retângulo de lados 20 cm e 30 cm. Considere a aceleração da gravidade local igual a 10 m s−2 e a pressão atmosférica de 105 Pa.</ENUNCIADO>
+		<ALTERNATIVA_A>4</ALTERNATIVA_A>
+		<ALTERNATIVA_B>6</ALTERNATIVA_B>
+		<ALTERNATIVA_C>8</ALTERNATIVA_C>
+		<ALTERNATIVA_D>10</ALTERNATIVA_D>
+		<ALTERNATIVA_E>12</ALTERNATIVA_E>
+		<CORRETA>E</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 22 '>
+		<ENUNCIADO>(Enem PPL 2020) Um caminhão de massa 5 toneladas, carregado com carga de 0.9 toneladas, tem eixos articulados que permitem fazer o uso de 4 a 12 pneus (aos pares) simultaneamente. O número de pneus em contato com o solo é determinado a fim de que a pressão exercida por cada pneu contra o solo não supere o dobro da pressão atmosférica. A área de contato entre cada pneu e o asfalto equivale à área de um retângulo de lados 20 cm e 30 cm. Considere a aceleração da gravidade local igual a 10 m s−2 e a pressão atmosférica de 105 Pa.</ENUNCIADO>
+		<ALTERNATIVA_A>4</ALTERNATIVA_A>
+		<ALTERNATIVA_B>6</ALTERNATIVA_B>
+		<ALTERNATIVA_C>8</ALTERNATIVA_C>
+		<ALTERNATIVA_D>10</ALTERNATIVA_D>
+		<ALTERNATIVA_E>12</ALTERNATIVA_E>
+		<CORRETA>B</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 23 '>
+		<ENUNCIADO>(Enem PPL 2020) Um caminhão de massa 5 toneladas, carregado com carga de 5.2 toneladas, tem eixos articulados que permitem fazer o uso de 4 a 12 pneus (aos pares) simultaneamente. O número de pneus em contato com o solo é determinado a fim de que a pressão exercida por cada pneu contra o solo não supere o dobro da pressão atmosférica. A área de contato entre cada pneu e o asfalto equivale à área de um retângulo de lados 20 cm e 30 cm. Considere a aceleração da gravidade local igual a 10 m s−2 e a pressão atmosférica de 105 Pa.</ENUNCIADO>
+		<ALTERNATIVA_A>4</ALTERNATIVA_A>
+		<ALTERNATIVA_B>6</ALTERNATIVA_B>
+		<ALTERNATIVA_C>8</ALTERNATIVA_C>
+		<ALTERNATIVA_D>10</ALTERNATIVA_D>
+		<ALTERNATIVA_E>12</ALTERNATIVA_E>
+		<CORRETA>D</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 24 '>
+		<ENUNCIADO>(Enem PPL 2020) Um caminhão de massa 5 toneladas, carregado com carga de 0.5 toneladas, tem eixos articulados que permitem fazer o uso de 4 a 12 pneus (aos pares) simultaneamente. O número de pneus em contato com o solo é determinado a fim de que a pressão exercida por cada pneu contra o solo não supere o dobro da pressão atmosférica. A área de contato entre cada pneu e o asfalto equivale à área de um retângulo de lados 20 cm e 30 cm. Considere a aceleração da gravidade local igual a 10 m s−2 e a pressão atmosférica de 105 Pa.</ENUNCIADO>
+		<ALTERNATIVA_A>4</ALTERNATIVA_A>
+		<ALTERNATIVA_B>6</ALTERNATIVA_B>
+		<ALTERNATIVA_C>8</ALTERNATIVA_C>
+		<ALTERNATIVA_D>10</ALTERNATIVA_D>
+		<ALTERNATIVA_E>12</ALTERNATIVA_E>
+		<CORRETA>B</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 25 '>
+		<ENUNCIADO>(Enem PPL 2020) Um caminhão de massa 5 toneladas, carregado com carga de 1.6 toneladas, tem eixos articulados que permitem fazer o uso de 4 a 12 pneus (aos pares) simultaneamente. O número de pneus em contato com o solo é determinado a fim de que a pressão exercida por cada pneu contra o solo não supere o dobro da pressão atmosférica. A área de contato entre cada pneu e o asfalto equivale à área de um retângulo de lados 20 cm e 30 cm. Considere a aceleração da gravidade local igual a 10 m s−2 e a pressão atmosférica de 105 Pa.</ENUNCIADO>
+		<ALTERNATIVA_A>4</ALTERNATIVA_A>
+		<ALTERNATIVA_B>6</ALTERNATIVA_B>
+		<ALTERNATIVA_C>8</ALTERNATIVA_C>
+		<ALTERNATIVA_D>10</ALTERNATIVA_D>
+		<ALTERNATIVA_E>12</ALTERNATIVA_E>
+		<CORRETA>B</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 26 '>
+		<ENUNCIADO>(Enem PPL 2020) Um caminhão de massa 5 toneladas, carregado com carga de 8.8 toneladas, tem eixos articulados que permitem fazer o uso de 4 a 12 pneus (aos pares) simultaneamente. O número de pneus em contato com o solo é determinado a fim de que a pressão exercida por cada pneu contra o solo não supere o dobro da pressão atmosférica. A área de contato entre cada pneu e o asfalto equivale à área de um retângulo de lados 20 cm e 30 cm. Considere a aceleração da gravidade local igual a 10 m s−2 e a pressão atmosférica de 105 Pa.</ENUNCIADO>
+		<ALTERNATIVA_A>4</ALTERNATIVA_A>
+		<ALTERNATIVA_B>6</ALTERNATIVA_B>
+		<ALTERNATIVA_C>8</ALTERNATIVA_C>
+		<ALTERNATIVA_D>10</ALTERNATIVA_D>
+		<ALTERNATIVA_E>12</ALTERNATIVA_E>
+		<CORRETA>E</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 27 '>
+		<ENUNCIADO>(Enem PPL 2020) Um caminhão de massa 5 toneladas, carregado com carga de 4.8 toneladas, tem eixos articulados que permitem fazer o uso de 4 a 12 pneus (aos pares) simultaneamente. O número de pneus em contato com o solo é determinado a fim de que a pressão exercida por cada pneu contra o solo não supere o dobro da pressão atmosférica. A área de contato entre cada pneu e o asfalto equivale à área de um retângulo de lados 20 cm e 30 cm. Considere a aceleração da gravidade local igual a 10 m s−2 e a pressão atmosférica de 105 Pa.</ENUNCIADO>
+		<ALTERNATIVA_A>4</ALTERNATIVA_A>
+		<ALTERNATIVA_B>6</ALTERNATIVA_B>
+		<ALTERNATIVA_C>8</ALTERNATIVA_C>
+		<ALTERNATIVA_D>10</ALTERNATIVA_D>
+		<ALTERNATIVA_E>12</ALTERNATIVA_E>
+		<CORRETA>D</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 28 '>
+		<ENUNCIADO>(Enem PPL 2020) Um caminhão de massa 5 toneladas, carregado com carga de 4.5 toneladas, tem eixos articulados que permitem fazer o uso de 4 a 12 pneus (aos pares) simultaneamente. O número de pneus em contato com o solo é determinado a fim de que a pressão exercida por cada pneu contra o solo não supere o dobro da pressão atmosférica. A área de contato entre cada pneu e o asfalto equivale à área de um retângulo de lados 20 cm e 30 cm. Considere a aceleração da gravidade local igual a 10 m s−2 e a pressão atmosférica de 105 Pa.</ENUNCIADO>
+		<ALTERNATIVA_A>4</ALTERNATIVA_A>
+		<ALTERNATIVA_B>6</ALTERNATIVA_B>
+		<ALTERNATIVA_C>8</ALTERNATIVA_C>
+		<ALTERNATIVA_D>10</ALTERNATIVA_D>
+		<ALTERNATIVA_E>12</ALTERNATIVA_E>
+		<CORRETA>C</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 29 '>
+		<ENUNCIADO>(Enem PPL 2020) Um caminhão de massa 5 toneladas, carregado com carga de 5.5 toneladas, tem eixos articulados que permitem fazer o uso de 4 a 12 pneus (aos pares) simultaneamente. O número de pneus em contato com o solo é determinado a fim de que a pressão exercida por cada pneu contra o solo não supere o dobro da pressão atmosférica. A área de contato entre cada pneu e o asfalto equivale à área de um retângulo de lados 20 cm e 30 cm. Considere a aceleração da gravidade local igual a 10 m s−2 e a pressão atmosférica de 105 Pa.</ENUNCIADO>
+		<ALTERNATIVA_A>4</ALTERNATIVA_A>
+		<ALTERNATIVA_B>6</ALTERNATIVA_B>
+		<ALTERNATIVA_C>8</ALTERNATIVA_C>
+		<ALTERNATIVA_D>10</ALTERNATIVA_D>
+		<ALTERNATIVA_E>12</ALTERNATIVA_E>
+		<CORRETA>D</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 30 '>
+		<ENUNCIADO>(Enem PPL 2020) Um caminhão de massa 5 toneladas, carregado com carga de 5.5 toneladas, tem eixos articulados que permitem fazer o uso de 4 a 12 pneus (aos pares) simultaneamente. O número de pneus em contato com o solo é determinado a fim de que a pressão exercida por cada pneu contra o solo não supere o dobro da pressão atmosférica. A área de contato entre cada pneu e o asfalto equivale à área de um retângulo de lados 20 cm e 30 cm. Considere a aceleração da gravidade local igual a 10 m s−2 e a pressão atmosférica de 105 Pa.</ENUNCIADO>
+		<ALTERNATIVA_A>4</ALTERNATIVA_A>
+		<ALTERNATIVA_B>6</ALTERNATIVA_B>
+		<ALTERNATIVA_C>8</ALTERNATIVA_C>
+		<ALTERNATIVA_D>10</ALTERNATIVA_D>
+		<ALTERNATIVA_E>12</ALTERNATIVA_E>
+		<CORRETA>D</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 31 '>
+		<ENUNCIADO>(Enem PPL 2020) Um caminhão de massa 5 toneladas, carregado com carga de 4.5 toneladas, tem eixos articulados que permitem fazer o uso de 4 a 12 pneus (aos pares) simultaneamente. O número de pneus em contato com o solo é determinado a fim de que a pressão exercida por cada pneu contra o solo não supere o dobro da pressão atmosférica. A área de contato entre cada pneu e o asfalto equivale à área de um retângulo de lados 20 cm e 30 cm. Considere a aceleração da gravidade local igual a 10 m s−2 e a pressão atmosférica de 105 Pa.</ENUNCIADO>
+		<ALTERNATIVA_A>4</ALTERNATIVA_A>
+		<ALTERNATIVA_B>6</ALTERNATIVA_B>
+		<ALTERNATIVA_C>8</ALTERNATIVA_C>
+		<ALTERNATIVA_D>10</ALTERNATIVA_D>
+		<ALTERNATIVA_E>12</ALTERNATIVA_E>
+		<CORRETA>C</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 32 '>
+		<ENUNCIADO>(Enem PPL 2020) Um caminhão de massa 5 toneladas, carregado com carga de 3.2 toneladas, tem eixos articulados que permitem fazer o uso de 4 a 12 pneus (aos pares) simultaneamente. O número de pneus em contato com o solo é determinado a fim de que a pressão exercida por cada pneu contra o solo não supere o dobro da pressão atmosférica. A área de contato entre cada pneu e o asfalto equivale à área de um retângulo de lados 20 cm e 30 cm. Considere a aceleração da gravidade local igual a 10 m s−2 e a pressão atmosférica de 105 Pa.</ENUNCIADO>
+		<ALTERNATIVA_A>4</ALTERNATIVA_A>
+		<ALTERNATIVA_B>6</ALTERNATIVA_B>
+		<ALTERNATIVA_C>8</ALTERNATIVA_C>
+		<ALTERNATIVA_D>10</ALTERNATIVA_D>
+		<ALTERNATIVA_E>12</ALTERNATIVA_E>
+		<CORRETA>C</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 33 '>
+		<ENUNCIADO>(Enem PPL 2020) Um caminhão de massa 5 toneladas, carregado com carga de 1.5 toneladas, tem eixos articulados que permitem fazer o uso de 4 a 12 pneus (aos pares) simultaneamente. O número de pneus em contato com o solo é determinado a fim de que a pressão exercida por cada pneu contra o solo não supere o dobro da pressão atmosférica. A área de contato entre cada pneu e o asfalto equivale à área de um retângulo de lados 20 cm e 30 cm. Considere a aceleração da gravidade local igual a 10 m s−2 e a pressão atmosférica de 105 Pa.</ENUNCIADO>
+		<ALTERNATIVA_A>4</ALTERNATIVA_A>
+		<ALTERNATIVA_B>6</ALTERNATIVA_B>
+		<ALTERNATIVA_C>8</ALTERNATIVA_C>
+		<ALTERNATIVA_D>10</ALTERNATIVA_D>
+		<ALTERNATIVA_E>12</ALTERNATIVA_E>
+		<CORRETA>B</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 34 '>
+		<ENUNCIADO>(Enem PPL 2020) Um caminhão de massa 5 toneladas, carregado com carga de 8.5 toneladas, tem eixos articulados que permitem fazer o uso de 4 a 12 pneus (aos pares) simultaneamente. O número de pneus em contato com o solo é determinado a fim de que a pressão exercida por cada pneu contra o solo não supere o dobro da pressão atmosférica. A área de contato entre cada pneu e o asfalto equivale à área de um retângulo de lados 20 cm e 30 cm. Considere a aceleração da gravidade local igual a 10 m s−2 e a pressão atmosférica de 105 Pa.</ENUNCIADO>
+		<ALTERNATIVA_A>4</ALTERNATIVA_A>
+		<ALTERNATIVA_B>6</ALTERNATIVA_B>
+		<ALTERNATIVA_C>8</ALTERNATIVA_C>
+		<ALTERNATIVA_D>10</ALTERNATIVA_D>
+		<ALTERNATIVA_E>12</ALTERNATIVA_E>
+		<CORRETA>E</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 35 '>
+		<ENUNCIADO>(Enem PPL 2020) Um caminhão de massa 5 toneladas, carregado com carga de 8.9 toneladas, tem eixos articulados que permitem fazer o uso de 4 a 12 pneus (aos pares) simultaneamente. O número de pneus em contato com o solo é determinado a fim de que a pressão exercida por cada pneu contra o solo não supere o dobro da pressão atmosférica. A área de contato entre cada pneu e o asfalto equivale à área de um retângulo de lados 20 cm e 30 cm. Considere a aceleração da gravidade local igual a 10 m s−2 e a pressão atmosférica de 105 Pa.</ENUNCIADO>
+		<ALTERNATIVA_A>4</ALTERNATIVA_A>
+		<ALTERNATIVA_B>6</ALTERNATIVA_B>
+		<ALTERNATIVA_C>8</ALTERNATIVA_C>
+		<ALTERNATIVA_D>10</ALTERNATIVA_D>
+		<ALTERNATIVA_E>12</ALTERNATIVA_E>
+		<CORRETA>E</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 36 '>
+		<ENUNCIADO>(Enem PPL 2020) Um caminhão de massa 5 toneladas, carregado com carga de 5.4 toneladas, tem eixos articulados que permitem fazer o uso de 4 a 12 pneus (aos pares) simultaneamente. O número de pneus em contato com o solo é determinado a fim de que a pressão exercida por cada pneu contra o solo não supere o dobro da pressão atmosférica. A área de contato entre cada pneu e o asfalto equivale à área de um retângulo de lados 20 cm e 30 cm. Considere a aceleração da gravidade local igual a 10 m s−2 e a pressão atmosférica de 105 Pa.</ENUNCIADO>
+		<ALTERNATIVA_A>4</ALTERNATIVA_A>
+		<ALTERNATIVA_B>6</ALTERNATIVA_B>
+		<ALTERNATIVA_C>8</ALTERNATIVA_C>
+		<ALTERNATIVA_D>10</ALTERNATIVA_D>
+		<ALTERNATIVA_E>12</ALTERNATIVA_E>
+		<CORRETA>D</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 37 '>
+		<ENUNCIADO>(Enem PPL 2020) Um caminhão de massa 5 toneladas, carregado com carga de 6.5 toneladas, tem eixos articulados que permitem fazer o uso de 4 a 12 pneus (aos pares) simultaneamente. O número de pneus em contato com o solo é determinado a fim de que a pressão exercida por cada pneu contra o solo não supere o dobro da pressão atmosférica. A área de contato entre cada pneu e o asfalto equivale à área de um retângulo de lados 20 cm e 30 cm. Considere a aceleração da gravidade local igual a 10 m s−2 e a pressão atmosférica de 105 Pa.</ENUNCIADO>
+		<ALTERNATIVA_A>4</ALTERNATIVA_A>
+		<ALTERNATIVA_B>6</ALTERNATIVA_B>
+		<ALTERNATIVA_C>8</ALTERNATIVA_C>
+		<ALTERNATIVA_D>10</ALTERNATIVA_D>
+		<ALTERNATIVA_E>12</ALTERNATIVA_E>
+		<CORRETA>D</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 38 '>
+		<ENUNCIADO>(Enem PPL 2020) Um caminhão de massa 5 toneladas, carregado com carga de 8.5 toneladas, tem eixos articulados que permitem fazer o uso de 4 a 12 pneus (aos pares) simultaneamente. O número de pneus em contato com o solo é determinado a fim de que a pressão exercida por cada pneu contra o solo não supere o dobro da pressão atmosférica. A área de contato entre cada pneu e o asfalto equivale à área de um retângulo de lados 20 cm e 30 cm. Considere a aceleração da gravidade local igual a 10 m s−2 e a pressão atmosférica de 105 Pa.</ENUNCIADO>
+		<ALTERNATIVA_A>4</ALTERNATIVA_A>
+		<ALTERNATIVA_B>6</ALTERNATIVA_B>
+		<ALTERNATIVA_C>8</ALTERNATIVA_C>
+		<ALTERNATIVA_D>10</ALTERNATIVA_D>
+		<ALTERNATIVA_E>12</ALTERNATIVA_E>
+		<CORRETA>E</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 39 '>
+		<ENUNCIADO>(Enem PPL 2020) Um caminhão de massa 5 toneladas, carregado com carga de 1.0 toneladas, tem eixos articulados que permitem fazer o uso de 4 a 12 pneus (aos pares) simultaneamente. O número de pneus em contato com o solo é determinado a fim de que a pressão exercida por cada pneu contra o solo não supere o dobro da pressão atmosférica. A área de contato entre cada pneu e o asfalto equivale à área de um retângulo de lados 20 cm e 30 cm. Considere a aceleração da gravidade local igual a 10 m s−2 e a pressão atmosférica de 105 Pa.</ENUNCIADO>
+		<ALTERNATIVA_A>4</ALTERNATIVA_A>
+		<ALTERNATIVA_B>6</ALTERNATIVA_B>
+		<ALTERNATIVA_C>8</ALTERNATIVA_C>
+		<ALTERNATIVA_D>10</ALTERNATIVA_D>
+		<ALTERNATIVA_E>12</ALTERNATIVA_E>
+		<CORRETA>B</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 40 '>
+		<ENUNCIADO>(Enem PPL 2020) Um caminhão de massa 5 toneladas, carregado com carga de 7.6 toneladas, tem eixos articulados que permitem fazer o uso de 4 a 12 pneus (aos pares) simultaneamente. O número de pneus em contato com o solo é determinado a fim de que a pressão exercida por cada pneu contra o solo não supere o dobro da pressão atmosférica. A área de contato entre cada pneu e o asfalto equivale à área de um retângulo de lados 20 cm e 30 cm. Considere a aceleração da gravidade local igual a 10 m s−2 e a pressão atmosférica de 105 Pa.</ENUNCIADO>
+		<ALTERNATIVA_A>4</ALTERNATIVA_A>
+		<ALTERNATIVA_B>6</ALTERNATIVA_B>
+		<ALTERNATIVA_C>8</ALTERNATIVA_C>
+		<ALTERNATIVA_D>10</ALTERNATIVA_D>
+		<ALTERNATIVA_E>12</ALTERNATIVA_E>
+		<CORRETA>E</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 41 '>
+		<ENUNCIADO>(Enem 2018 PPL) Com um dedo, um garoto pressiona contra a parede duas moedas, de R$ 0.5 e R$ 1.0, uma sobre a outra, mantendo-as paradas. Em contato com o dedo está a moeda de R$ 0.5 e contra a parede está a de R$ 1.0. O peso da moeda de R$ 0.5 é 0.08 N e o da de R$ 1.0 é 0.09 N. A força de atrito exercida pela parede é suficiente para impedir que as moedas caiam. Qual é a força de atrito entre a parede e a moeda de R$ 0.09?</ENUNCIADO>
+		<ALTERNATIVA_A>0.16999999999999998</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.09N</ALTERNATIVA_B>
+		<ALTERNATIVA_C>1.0N</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.08N</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.5N</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 42 '>
+		<ENUNCIADO>(Enem 2018 PPL) Com um dedo, um garoto pressiona contra a parede duas moedas, de R$ 0.25 e R$ 0.1, uma sobre a outra, mantendo-as paradas. Em contato com o dedo está a moeda de R$ 0.25 e contra a parede está a de R$ 0.1. O peso da moeda de R$ 0.25 é 0.08 N e o da de R$ 0.1 é 0.05 N. A força de atrito exercida pela parede é suficiente para impedir que as moedas caiam. Qual é a força de atrito entre a parede e a moeda de R$ 0.05?</ENUNCIADO>
+		<ALTERNATIVA_A>0.13</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.05N</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.1N</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.08N</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.25N</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 43 '>
+		<ENUNCIADO>(Enem 2018 PPL) Com um dedo, um garoto pressiona contra a parede duas moedas, de R$ 0.01 e R$ 0.1, uma sobre a outra, mantendo-as paradas. Em contato com o dedo está a moeda de R$ 0.01 e contra a parede está a de R$ 0.1. O peso da moeda de R$ 0.01 é 0.02 N e o da de R$ 0.1 é 0.05 N. A força de atrito exercida pela parede é suficiente para impedir que as moedas caiam. Qual é a força de atrito entre a parede e a moeda de R$ 0.05?</ENUNCIADO>
+		<ALTERNATIVA_A>0.07</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.05N</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.1N</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.02N</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.01N</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 44 '>
+		<ENUNCIADO>(Enem 2018 PPL) Com um dedo, um garoto pressiona contra a parede duas moedas, de R$ 0.05 e R$ 0.25, uma sobre a outra, mantendo-as paradas. Em contato com o dedo está a moeda de R$ 0.05 e contra a parede está a de R$ 0.25. O peso da moeda de R$ 0.05 é 0.04 N e o da de R$ 0.25 é 0.08 N. A força de atrito exercida pela parede é suficiente para impedir que as moedas caiam. Qual é a força de atrito entre a parede e a moeda de R$ 0.08?</ENUNCIADO>
+		<ALTERNATIVA_A>0.12</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.08N</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.25N</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.04N</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.05N</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 45 '>
+		<ENUNCIADO>(Enem 2018 PPL) Com um dedo, um garoto pressiona contra a parede duas moedas, de R$ 1.0 e R$ 1.0, uma sobre a outra, mantendo-as paradas. Em contato com o dedo está a moeda de R$ 1.0 e contra a parede está a de R$ 1.0. O peso da moeda de R$ 1.0 é 0.09 N e o da de R$ 1.0 é 0.09 N. A força de atrito exercida pela parede é suficiente para impedir que as moedas caiam. Qual é a força de atrito entre a parede e a moeda de R$ 0.09?</ENUNCIADO>
+		<ALTERNATIVA_A>0.18</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.09N</ALTERNATIVA_B>
+		<ALTERNATIVA_C>1.0N</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.09N</ALTERNATIVA_D>
+		<ALTERNATIVA_E>1.0N</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 46 '>
+		<ENUNCIADO>(Enem 2018 PPL) Com um dedo, um garoto pressiona contra a parede duas moedas, de R$ 0.1 e R$ 0.25, uma sobre a outra, mantendo-as paradas. Em contato com o dedo está a moeda de R$ 0.1 e contra a parede está a de R$ 0.25. O peso da moeda de R$ 0.1 é 0.05 N e o da de R$ 0.25 é 0.08 N. A força de atrito exercida pela parede é suficiente para impedir que as moedas caiam. Qual é a força de atrito entre a parede e a moeda de R$ 0.08?</ENUNCIADO>
+		<ALTERNATIVA_A>0.13</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.08N</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.25N</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.05N</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.1N</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 47 '>
+		<ENUNCIADO>(Enem 2018 PPL) Com um dedo, um garoto pressiona contra a parede duas moedas, de R$ 0.01 e R$ 0.1, uma sobre a outra, mantendo-as paradas. Em contato com o dedo está a moeda de R$ 0.01 e contra a parede está a de R$ 0.1. O peso da moeda de R$ 0.01 é 0.02 N e o da de R$ 0.1 é 0.05 N. A força de atrito exercida pela parede é suficiente para impedir que as moedas caiam. Qual é a força de atrito entre a parede e a moeda de R$ 0.05?</ENUNCIADO>
+		<ALTERNATIVA_A>0.07</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.05N</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.1N</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.02N</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.01N</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 48 '>
+		<ENUNCIADO>(Enem 2018 PPL) Com um dedo, um garoto pressiona contra a parede duas moedas, de R$ 1.0 e R$ 0.05, uma sobre a outra, mantendo-as paradas. Em contato com o dedo está a moeda de R$ 1.0 e contra a parede está a de R$ 0.05. O peso da moeda de R$ 1.0 é 0.09 N e o da de R$ 0.05 é 0.04 N. A força de atrito exercida pela parede é suficiente para impedir que as moedas caiam. Qual é a força de atrito entre a parede e a moeda de R$ 0.04?</ENUNCIADO>
+		<ALTERNATIVA_A>0.13</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.04N</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.05N</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.09N</ALTERNATIVA_D>
+		<ALTERNATIVA_E>1.0N</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 49 '>
+		<ENUNCIADO>(Enem 2018 PPL) Com um dedo, um garoto pressiona contra a parede duas moedas, de R$ 0.01 e R$ 1.0, uma sobre a outra, mantendo-as paradas. Em contato com o dedo está a moeda de R$ 0.01 e contra a parede está a de R$ 1.0. O peso da moeda de R$ 0.01 é 0.02 N e o da de R$ 1.0 é 0.09 N. A força de atrito exercida pela parede é suficiente para impedir que as moedas caiam. Qual é a força de atrito entre a parede e a moeda de R$ 0.09?</ENUNCIADO>
+		<ALTERNATIVA_A>0.11</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.09N</ALTERNATIVA_B>
+		<ALTERNATIVA_C>1.0N</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.02N</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.01N</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 50 '>
+		<ENUNCIADO>(Enem 2018 PPL) Com um dedo, um garoto pressiona contra a parede duas moedas, de R$ 0.05 e R$ 0.05, uma sobre a outra, mantendo-as paradas. Em contato com o dedo está a moeda de R$ 0.05 e contra a parede está a de R$ 0.05. O peso da moeda de R$ 0.05 é 0.04 N e o da de R$ 0.05 é 0.04 N. A força de atrito exercida pela parede é suficiente para impedir que as moedas caiam. Qual é a força de atrito entre a parede e a moeda de R$ 0.04?</ENUNCIADO>
+		<ALTERNATIVA_A>0.08</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.04N</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.05N</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.04N</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.05N</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 51 '>
+		<ENUNCIADO>(Enem 2018 PPL) Com um dedo, um garoto pressiona contra a parede duas moedas, de R$ 1.0 e R$ 0.5, uma sobre a outra, mantendo-as paradas. Em contato com o dedo está a moeda de R$ 1.0 e contra a parede está a de R$ 0.5. O peso da moeda de R$ 1.0 é 0.09 N e o da de R$ 0.5 é 0.08 N. A força de atrito exercida pela parede é suficiente para impedir que as moedas caiam. Qual é a força de atrito entre a parede e a moeda de R$ 0.08?</ENUNCIADO>
+		<ALTERNATIVA_A>0.16999999999999998</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.08N</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.5N</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.09N</ALTERNATIVA_D>
+		<ALTERNATIVA_E>1.0N</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 52 '>
+		<ENUNCIADO>(Enem 2018 PPL) Com um dedo, um garoto pressiona contra a parede duas moedas, de R$ 0.5 e R$ 0.05, uma sobre a outra, mantendo-as paradas. Em contato com o dedo está a moeda de R$ 0.5 e contra a parede está a de R$ 0.05. O peso da moeda de R$ 0.5 é 0.08 N e o da de R$ 0.05 é 0.04 N. A força de atrito exercida pela parede é suficiente para impedir que as moedas caiam. Qual é a força de atrito entre a parede e a moeda de R$ 0.04?</ENUNCIADO>
+		<ALTERNATIVA_A>0.12</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.04N</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.05N</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.08N</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.5N</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 53 '>
+		<ENUNCIADO>(Enem 2018 PPL) Com um dedo, um garoto pressiona contra a parede duas moedas, de R$ 0.01 e R$ 0.25, uma sobre a outra, mantendo-as paradas. Em contato com o dedo está a moeda de R$ 0.01 e contra a parede está a de R$ 0.25. O peso da moeda de R$ 0.01 é 0.02 N e o da de R$ 0.25 é 0.08 N. A força de atrito exercida pela parede é suficiente para impedir que as moedas caiam. Qual é a força de atrito entre a parede e a moeda de R$ 0.08?</ENUNCIADO>
+		<ALTERNATIVA_A>0.1</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.08N</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.25N</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.02N</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.01N</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 54 '>
+		<ENUNCIADO>(Enem 2018 PPL) Com um dedo, um garoto pressiona contra a parede duas moedas, de R$ 0.01 e R$ 1.0, uma sobre a outra, mantendo-as paradas. Em contato com o dedo está a moeda de R$ 0.01 e contra a parede está a de R$ 1.0. O peso da moeda de R$ 0.01 é 0.02 N e o da de R$ 1.0 é 0.09 N. A força de atrito exercida pela parede é suficiente para impedir que as moedas caiam. Qual é a força de atrito entre a parede e a moeda de R$ 0.09?</ENUNCIADO>
+		<ALTERNATIVA_A>0.11</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.09N</ALTERNATIVA_B>
+		<ALTERNATIVA_C>1.0N</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.02N</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.01N</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 55 '>
+		<ENUNCIADO>(Enem 2018 PPL) Com um dedo, um garoto pressiona contra a parede duas moedas, de R$ 0.5 e R$ 0.05, uma sobre a outra, mantendo-as paradas. Em contato com o dedo está a moeda de R$ 0.5 e contra a parede está a de R$ 0.05. O peso da moeda de R$ 0.5 é 0.08 N e o da de R$ 0.05 é 0.04 N. A força de atrito exercida pela parede é suficiente para impedir que as moedas caiam. Qual é a força de atrito entre a parede e a moeda de R$ 0.04?</ENUNCIADO>
+		<ALTERNATIVA_A>0.12</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.04N</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.05N</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.08N</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.5N</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 56 '>
+		<ENUNCIADO>(Enem 2018 PPL) Com um dedo, um garoto pressiona contra a parede duas moedas, de R$ 0.1 e R$ 0.5, uma sobre a outra, mantendo-as paradas. Em contato com o dedo está a moeda de R$ 0.1 e contra a parede está a de R$ 0.5. O peso da moeda de R$ 0.1 é 0.05 N e o da de R$ 0.5 é 0.08 N. A força de atrito exercida pela parede é suficiente para impedir que as moedas caiam. Qual é a força de atrito entre a parede e a moeda de R$ 0.08?</ENUNCIADO>
+		<ALTERNATIVA_A>0.13</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.08N</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.5N</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.05N</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.1N</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 57 '>
+		<ENUNCIADO>(Enem 2018 PPL) Com um dedo, um garoto pressiona contra a parede duas moedas, de R$ 0.1 e R$ 1.0, uma sobre a outra, mantendo-as paradas. Em contato com o dedo está a moeda de R$ 0.1 e contra a parede está a de R$ 1.0. O peso da moeda de R$ 0.1 é 0.05 N e o da de R$ 1.0 é 0.09 N. A força de atrito exercida pela parede é suficiente para impedir que as moedas caiam. Qual é a força de atrito entre a parede e a moeda de R$ 0.09?</ENUNCIADO>
+		<ALTERNATIVA_A>0.14</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.09N</ALTERNATIVA_B>
+		<ALTERNATIVA_C>1.0N</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.05N</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.1N</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 58 '>
+		<ENUNCIADO>(Enem 2018 PPL) Com um dedo, um garoto pressiona contra a parede duas moedas, de R$ 0.01 e R$ 0.5, uma sobre a outra, mantendo-as paradas. Em contato com o dedo está a moeda de R$ 0.01 e contra a parede está a de R$ 0.5. O peso da moeda de R$ 0.01 é 0.02 N e o da de R$ 0.5 é 0.08 N. A força de atrito exercida pela parede é suficiente para impedir que as moedas caiam. Qual é a força de atrito entre a parede e a moeda de R$ 0.08?</ENUNCIADO>
+		<ALTERNATIVA_A>0.1</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.08N</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.5N</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.02N</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.01N</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 59 '>
+		<ENUNCIADO>(Enem 2018 PPL) Com um dedo, um garoto pressiona contra a parede duas moedas, de R$ 1.0 e R$ 0.01, uma sobre a outra, mantendo-as paradas. Em contato com o dedo está a moeda de R$ 1.0 e contra a parede está a de R$ 0.01. O peso da moeda de R$ 1.0 é 0.09 N e o da de R$ 0.01 é 0.02 N. A força de atrito exercida pela parede é suficiente para impedir que as moedas caiam. Qual é a força de atrito entre a parede e a moeda de R$ 0.02?</ENUNCIADO>
+		<ALTERNATIVA_A>0.11</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.02N</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.01N</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.09N</ALTERNATIVA_D>
+		<ALTERNATIVA_E>1.0N</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 60 '>
+		<ENUNCIADO>(Enem 2018 PPL) Com um dedo, um garoto pressiona contra a parede duas moedas, de R$ 0.01 e R$ 0.01, uma sobre a outra, mantendo-as paradas. Em contato com o dedo está a moeda de R$ 0.01 e contra a parede está a de R$ 0.01. O peso da moeda de R$ 0.01 é 0.02 N e o da de R$ 0.01 é 0.02 N. A força de atrito exercida pela parede é suficiente para impedir que as moedas caiam. Qual é a força de atrito entre a parede e a moeda de R$ 0.02?</ENUNCIADO>
+		<ALTERNATIVA_A>0.04</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.02N</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.01N</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.02N</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.01N</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 61 '>
+		<ENUNCIADO>(ENEM 2022) Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 4m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 4m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m s-2. O resultado que eles obtiveram foi de</ENUNCIADO>
+		<ALTERNATIVA_A>1.3333333333333335cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>1.8333333333333335cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>2.8333333333333335cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>3.3333333333333335cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>3.8333333333333335cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 62 '>
+		<ENUNCIADO>(ENEM 2022) Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 2m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 2m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m s-2. O resultado que eles obtiveram foi de</ENUNCIADO>
+		<ALTERNATIVA_A>1.0cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>1.5cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>2.5cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>3.0cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>3.5cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 63 '>
+		<ENUNCIADO>(ENEM 2022) Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 2m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 2m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m s-2. O resultado que eles obtiveram foi de</ENUNCIADO>
+		<ALTERNATIVA_A>1.0cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>1.5cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>2.5cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>3.0cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>3.5cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 64 '>
+		<ENUNCIADO>(ENEM 2022) Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 5m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 5m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m s-2. O resultado que eles obtiveram foi de</ENUNCIADO>
+		<ALTERNATIVA_A>6.25cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>6.75cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>7.75cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>8.25cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>8.75cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 65 '>
+		<ENUNCIADO>(ENEM 2022) Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 4m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 4m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m s-2. O resultado que eles obtiveram foi de</ENUNCIADO>
+		<ALTERNATIVA_A>2.0cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>2.5cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>3.5cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>4.0cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>4.5cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 66 '>
+		<ENUNCIADO>(ENEM 2022) Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 3m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 3m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m s-2. O resultado que eles obtiveram foi de</ENUNCIADO>
+		<ALTERNATIVA_A>0.75cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>1.25cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>2.25cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>2.75cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>3.25cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 67 '>
+		<ENUNCIADO>(ENEM 2022) Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 5m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 5m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m s-2. O resultado que eles obtiveram foi de</ENUNCIADO>
+		<ALTERNATIVA_A>2.0833333333333335cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>2.5833333333333335cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>3.5833333333333335cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>4.083333333333334cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>4.583333333333334cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 68 '>
+		<ENUNCIADO>(ENEM 2022) Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 3m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 3m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m s-2. O resultado que eles obtiveram foi de</ENUNCIADO>
+		<ALTERNATIVA_A>1.125cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>1.625cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>2.625cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>3.125cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>3.625cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 69 '>
+		<ENUNCIADO>(ENEM 2022) Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 2m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 2m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m s-2. O resultado que eles obtiveram foi de</ENUNCIADO>
+		<ALTERNATIVA_A>0.33333333333333337cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.8333333333333334cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>1.8333333333333335cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>2.3333333333333335cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>2.8333333333333335cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 70 '>
+		<ENUNCIADO>(ENEM 2022) Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 4m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 4m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m s-2. O resultado que eles obtiveram foi de</ENUNCIADO>
+		<ALTERNATIVA_A>2.0cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>2.5cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>3.5cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>4.0cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>4.5cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 71 '>
+		<ENUNCIADO>(ENEM 2022) Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 2m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 2m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m s-2. O resultado que eles obtiveram foi de</ENUNCIADO>
+		<ALTERNATIVA_A>1.0cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>1.5cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>2.5cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>3.0cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>3.5cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 72 '>
+		<ENUNCIADO>(ENEM 2022) Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 4m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 4m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m s-2. O resultado que eles obtiveram foi de</ENUNCIADO>
+		<ALTERNATIVA_A>4.0cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>4.5cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>5.5cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>6.0cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>6.5cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 73 '>
+		<ENUNCIADO>(ENEM 2022) Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 2m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 2m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m s-2. O resultado que eles obtiveram foi de</ENUNCIADO>
+		<ALTERNATIVA_A>0.5cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>1.0cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>2.0cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>2.5cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>3.0cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 74 '>
+		<ENUNCIADO>(ENEM 2022) Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 5m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 5m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m s-2. O resultado que eles obtiveram foi de</ENUNCIADO>
+		<ALTERNATIVA_A>2.0833333333333335cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>2.5833333333333335cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>3.5833333333333335cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>4.083333333333334cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>4.583333333333334cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 75 '>
+		<ENUNCIADO>(ENEM 2022) Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 3m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 3m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m s-2. O resultado que eles obtiveram foi de</ENUNCIADO>
+		<ALTERNATIVA_A>2.25cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>2.75cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>3.75cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>4.25cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>4.75cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 76 '>
+		<ENUNCIADO>(ENEM 2022) Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 2m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 2m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m s-2. O resultado que eles obtiveram foi de</ENUNCIADO>
+		<ALTERNATIVA_A>0.33333333333333337cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.8333333333333334cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>1.8333333333333335cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>2.3333333333333335cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>2.8333333333333335cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 77 '>
+		<ENUNCIADO>(ENEM 2022) Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 5m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 5m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m s-2. O resultado que eles obtiveram foi de</ENUNCIADO>
+		<ALTERNATIVA_A>3.125cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>3.625cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>4.625cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>5.125cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>5.625cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 78 '>
+		<ENUNCIADO>(ENEM 2022) Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 4m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 4m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m s-2. O resultado que eles obtiveram foi de</ENUNCIADO>
+		<ALTERNATIVA_A>4.0cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>4.5cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>5.5cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>6.0cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>6.5cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 79 '>
+		<ENUNCIADO>(ENEM 2022) Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 2m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 2m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m s-2. O resultado que eles obtiveram foi de</ENUNCIADO>
+		<ALTERNATIVA_A>1.0cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>1.5cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>2.5cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>3.0cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>3.5cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 80 '>
+		<ENUNCIADO>(ENEM 2022) Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 4m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 4m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m s-2. O resultado que eles obtiveram foi de</ENUNCIADO>
+		<ALTERNATIVA_A>4.0cm</ALTERNATIVA_A>
+		<ALTERNATIVA_B>4.5cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>5.5cm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>6.0cm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>6.5cm</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 81 '>
+		<ENUNCIADO>A excentricidade da órbita do objeto chamado 3 Juno é:</ENUNCIADO>
+		<ALTERNATIVA_A>0.2555</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.9671</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.9999</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.2313</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.2555</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 82 '>
+		<ENUNCIADO>A excentricidade da órbita do objeto chamado Nereida é:</ENUNCIADO>
+		<ALTERNATIVA_A>0.7507</ALTERNATIVA_A>
+		<ALTERNATIVA_B>2e-05</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.34</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.1887</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.0472</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 83 '>
+		<ENUNCIADO>A excentricidade da órbita do objeto chamado 324 Bamberga é:</ENUNCIADO>
+		<ALTERNATIVA_A>0.34</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.9999</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.0541</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.2056</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.2313</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 84 '>
+		<ENUNCIADO>A excentricidade da órbita do objeto chamado Cometa Halley é:</ENUNCIADO>
+		<ALTERNATIVA_A>0.9671</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.7507</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.8549</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.0549</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.1146</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 85 '>
+		<ENUNCIADO>A excentricidade da órbita do objeto chamado 2I/Borisov é:</ENUNCIADO>
+		<ALTERNATIVA_A>3.5</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.0758</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.0086</ALTERNATIVA_C>
+		<ALTERNATIVA_D>1.2</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.9671</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 86 '>
+		<ENUNCIADO>A excentricidade da órbita do objeto chamado Mercúrio é:</ENUNCIADO>
+		<ALTERNATIVA_A>0.2056</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.0068</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.7507</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.2056</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.1887</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 87 '>
+		<ENUNCIADO>A excentricidade da órbita do objeto chamado Marte é:</ENUNCIADO>
+		<ALTERNATIVA_A>0.0934</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.0758</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.8549</ALTERNATIVA_C>
+		<ALTERNATIVA_D>2e-05</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.1887</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 88 '>
+		<ENUNCIADO>A excentricidade da órbita do objeto chamado Titã é:</ENUNCIADO>
+		<ALTERNATIVA_A>0.0288</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.9999</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.0758</ALTERNATIVA_C>
+		<ALTERNATIVA_D>1.2</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.8549</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 89 '>
+		<ENUNCIADO>A excentricidade da órbita do objeto chamado 10 Hígia é:</ENUNCIADO>
+		<ALTERNATIVA_A>0.1146</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.0934</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.9951</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.9671</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.0484</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 90 '>
+		<ENUNCIADO>A excentricidade da órbita do objeto chamado Haumea é:</ENUNCIADO>
+		<ALTERNATIVA_A>0.1887</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.2056</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.0541</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.34</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.0167</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 91 '>
+		<ENUNCIADO>A excentricidade da órbita do objeto chamado 4 Vesta é:</ENUNCIADO>
+		<ALTERNATIVA_A>0.0887</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.7507</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.8549</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.0541</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.0934</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 92 '>
+		<ENUNCIADO>A excentricidade da órbita do objeto chamado Vênus é:</ENUNCIADO>
+		<ALTERNATIVA_A>0.0068</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.34</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.8549</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.1887</ALTERNATIVA_D>
+		<ALTERNATIVA_E>3.5</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 93 '>
+		<ENUNCIADO>A excentricidade da órbita do objeto chamado 3 Juno é:</ENUNCIADO>
+		<ALTERNATIVA_A>0.2555</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.34</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.0549</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.0484</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.2555</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 94 '>
+		<ENUNCIADO>A excentricidade da órbita do objeto chamado Titã é:</ENUNCIADO>
+		<ALTERNATIVA_A>0.0288</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.9999</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.1146</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.2313</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.2056</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 95 '>
+		<ENUNCIADO>A excentricidade da órbita do objeto chamado 10 Hígia é:</ENUNCIADO>
+		<ALTERNATIVA_A>0.1146</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.0934</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.0086</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.7507</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.1146</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 96 '>
+		<ENUNCIADO>A excentricidade da órbita do objeto chamado Éris é:</ENUNCIADO>
+		<ALTERNATIVA_A>0.4407</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.0288</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.1887</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.0934</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.2488</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 97 '>
+		<ENUNCIADO>A excentricidade da órbita do objeto chamado Makemake é:</ENUNCIADO>
+		<ALTERNATIVA_A>0.1559</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.1887</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.0484</ALTERNATIVA_C>
+		<ALTERNATIVA_D>3.5</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.0549</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 98 '>
+		<ENUNCIADO>A excentricidade da órbita do objeto chamado ʻOumuamua é:</ENUNCIADO>
+		<ALTERNATIVA_A>1.2</ALTERNATIVA_A>
+		<ALTERNATIVA_B>1.057</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.0068</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.0288</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.0934</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 99 '>
+		<ENUNCIADO>A excentricidade da órbita do objeto chamado 324 Bamberga é:</ENUNCIADO>
+		<ALTERNATIVA_A>0.34</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.9671</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.8549</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.0887</ALTERNATIVA_D>
+		<ALTERNATIVA_E>0.0086</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 100 '>
+		<ENUNCIADO>A excentricidade da órbita do objeto chamado Haumea é:</ENUNCIADO>
+		<ALTERNATIVA_A>0.1887</ALTERNATIVA_A>
+		<ALTERNATIVA_B>0.1887</ALTERNATIVA_B>
+		<ALTERNATIVA_C>0.1146</ALTERNATIVA_C>
+		<ALTERNATIVA_D>0.9671</ALTERNATIVA_D>
+		<ALTERNATIVA_E>1.2</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 101 '>
+		<ENUNCIADO>No período de 24 de outubro de 1930 -> 3 de novembro de 1930 quem foi o presidente da república?</ENUNCIADO>
+		<ALTERNATIVA_A>Junta Governativa Provisória de 1930</ALTERNATIVA_A>
+		<ALTERNATIVA_B>João Goulart</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Ranieri Mazzilli</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Emílio Garrastazu Médici</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Junta Governativa Provisória de 1930</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 102 '>
+		<ENUNCIADO>No período de 29 de outubro de 1945 -> 31 de janeiro de 1946 quem foi o presidente da república?</ENUNCIADO>
+		<ALTERNATIVA_A>José Linhares</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Ranieri Mazzilli</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Itamar Franco</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Dilma Rousseff</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Pedro Aleixo</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 103 '>
+		<ENUNCIADO>No período de 15 de novembro de 1926 -> 24 de outubro de 1930 quem foi o presidente da república?</ENUNCIADO>
+		<ALTERNATIVA_A>Washington Luís</ALTERNATIVA_A>
+		<ALTERNATIVA_B>João Figueiredo</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Rodrigues Alves</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Artur Bernardes</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Junta militar de 1969</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 104 '>
+		<ENUNCIADO>No período de 1º de janeiro de 1995 -> 1º de janeiro de 2003 quem foi o presidente da república?</ENUNCIADO>
+		<ALTERNATIVA_A>Fernando Henrique Cardoso</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Getúlio Vargas</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Dilma Rousseff</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Artur Bernardes</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Floriano Peixoto</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 105 '>
+		<ENUNCIADO>No período de 1° de janeiro de 2011 -> 31 de agosto de 2016 quem foi o presidente da república?</ENUNCIADO>
+		<ALTERNATIVA_A>Dilma Rousseff</ALTERNATIVA_A>
+		<ALTERNATIVA_B>José Sarney</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Nilo Peçanha</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Nereu Ramos</ALTERNATIVA_D>
+		<ALTERNATIVA_E>João Goulart</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 106 '>
+		<ENUNCIADO>No período de 15 de março de 1985 -> 15 de março de 1990 quem foi o presidente da república?</ENUNCIADO>
+		<ALTERNATIVA_A>José Sarney</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Jânio Quadros</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Rodrigues Alves</ALTERNATIVA_C>
+		<ALTERNATIVA_D>José Sarney</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Washington Luís</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 107 '>
+		<ENUNCIADO>No período de 24 de outubro de 1930 -> 3 de novembro de 1930 quem foi o presidente da república?</ENUNCIADO>
+		<ALTERNATIVA_A>Junta Governativa Provisória de 1930</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Tancredo Neves</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Campos Sales</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Ernesto Geisel</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Dilma Rousseff</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 108 '>
+		<ENUNCIADO>No período de 1º de janeiro de 2019 -> 1º de janeiro de 2023 quem foi o presidente da república?</ENUNCIADO>
+		<ALTERNATIVA_A>Jair Bolsonaro</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Humberto Castelo Branco</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Epitácio Pessoa</ALTERNATIVA_C>
+		<ALTERNATIVA_D>João Figueiredo</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Afonso Pena</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 109 '>
+		<ENUNCIADO>No período de 3 de novembro de 1930 -> 10 de novembro de 1937 quem foi o presidente da república?</ENUNCIADO>
+		<ALTERNATIVA_A>Getúlio Vargas</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Rodrigues Alves</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Ernesto Geisel</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Artur Bernardes</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Café Filho</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 110 '>
+		<ENUNCIADO>No período de 31 de janeiro de 1951 -> 24 de agosto de 1954 quem foi o presidente da república?</ENUNCIADO>
+		<ALTERNATIVA_A>Getúlio Vargas</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Rodrigues Alves</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Dilma Rousseff</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Michel Temer</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Getúlio Vargas</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 111 '>
+		<ENUNCIADO>No período de 3 de novembro de 1930 -> 10 de novembro de 1937 quem foi o presidente da república?</ENUNCIADO>
+		<ALTERNATIVA_A>Getúlio Vargas</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Afonso Pena</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Ernesto Geisel</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Getúlio Vargas</ALTERNATIVA_D>
+		<ALTERNATIVA_E>José Sarney</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 112 '>
+		<ENUNCIADO>No período de 1º de janeiro de 2003 -> 1º de janeiro de 2011 quem foi o presidente da república?</ENUNCIADO>
+		<ALTERNATIVA_A>Luiz Inácio Lula da Silva</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Floriano Peixoto</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Venceslau Brás</ALTERNATIVA_C>
+		<ALTERNATIVA_D>João Figueiredo</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Pedro Aleixo</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 113 '>
+		<ENUNCIADO>No período de 8 de novembro de 1955 -> 11 de novembro de 1955 quem foi o presidente da república?</ENUNCIADO>
+		<ALTERNATIVA_A>Carlos Luz</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Getúlio Vargas</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Jair Bolsonaro</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Afonso Pena</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Junta Governativa Provisória de 1930</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 114 '>
+		<ENUNCIADO>No período de 31 de janeiro de 1951 -> 24 de agosto de 1954 quem foi o presidente da república?</ENUNCIADO>
+		<ALTERNATIVA_A>Getúlio Vargas</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Jânio Quadros</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Venceslau Brás</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Fernando Henrique Cardoso</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Getúlio Vargas</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 115 '>
+		<ENUNCIADO>No período de 15 de março de 1974 -> 15 de março de 1979 quem foi o presidente da república?</ENUNCIADO>
+		<ALTERNATIVA_A>Ernesto Geisel</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Artur da Costa e Silva</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Washington Luís</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Luiz Inácio Lula da Silva</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Venceslau Brás</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 116 '>
+		<ENUNCIADO>No período de 15 de março de 1979 -> 15 de março de 1985 quem foi o presidente da república?</ENUNCIADO>
+		<ALTERNATIVA_A>João Figueiredo</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Rodrigues Alves</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Nereu Ramos</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Júlio Prestes</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Nilo Peçanha</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 117 '>
+		<ENUNCIADO>No período de 15 de novembro de 1914 -> 15 de novembro de 1918 quem foi o presidente da república?</ENUNCIADO>
+		<ALTERNATIVA_A>Venceslau Brás</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Hermes da Fonseca</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Getúlio Vargas</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Getúlio Vargas</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Getúlio Vargas</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 118 '>
+		<ENUNCIADO>No período de Eleito diretamente, morreu antes de tomar posse quem foi o presidente da república?</ENUNCIADO>
+		<ALTERNATIVA_A>Rodrigues Alves</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Delfim Moreira</ALTERNATIVA_B>
+		<ALTERNATIVA_C>João Goulart</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Fernando Collor</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Getúlio Vargas</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 119 '>
+		<ENUNCIADO>No período de 28 de julho de 1919 -> 15 de novembro de 1922 quem foi o presidente da república?</ENUNCIADO>
+		<ALTERNATIVA_A>Epitácio Pessoa</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Afonso Pena</ALTERNATIVA_B>
+		<ALTERNATIVA_C>José Sarney</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Washington Luís</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Fernando Henrique Cardoso</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 120 '>
+		<ENUNCIADO>No período de 29 de dezembro de 1992 -> 1º de janeiro de 1995 quem foi o presidente da república?</ENUNCIADO>
+		<ALTERNATIVA_A>Itamar Franco</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Luiz Inácio Lula da Silva</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Itamar Franco</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Epitácio Pessoa</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Hermes da Fonseca</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 121 '>
+		<ENUNCIADO>Como seria a conjugação do verbo haver no Futuro do subjuntivo?</ENUNCIADO>
+		<ALTERNATIVA_A>Quando eu houver; Quando tu houveres; Quando ele/ela/você houver; Quando nós houvermos; Quando vós houverdes; Quando eles/elas/vocês houverem</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Que eu haja; Que tu hajas; Que ele/ela/você haja; Que nós hajamos; Que vós hajais; Que eles/elas/vocês hajam</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Eu hei; Tu hás Ele/ela/você há; Nós havemos; Vós haveis; Eles/elas/vocês hão;</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Quando eu houver; Quando tu houveres; Quando ele/ela/você houver; Quando nós houvermos; Quando vós houverdes; Quando eles/elas/vocês houverem</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Eu haveria; Tu haverias; Ele/ela/você haveria; Nós haveríamos; Vós haveríeis; Eles/elas/vocês ; haveriam;</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 122 '>
+		<ENUNCIADO>Como seria a conjugação do verbo haver no Presente do indicativo?</ENUNCIADO>
+		<ALTERNATIVA_A>Eu hei; Tu hás Ele/ela/você há; Nós havemos; Vós haveis; Eles/elas/vocês hão;</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Eu haveria; Tu haverias; Ele/ela/você haveria; Nós haveríamos; Vós haveríeis; Eles/elas/vocês ; haveriam;</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Quando eu houver; Quando tu houveres; Quando ele/ela/você houver; Quando nós houvermos; Quando vós houverdes; Quando eles/elas/vocês houverem</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Eu houve; Tu houveste; Ele/ela/você houve; Nós houvemos; Vós houvestes; Eles/elas/vocês houveram;</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Eu houvera; Tu houveras; Ele/ela/você houvera; Nós houvéramos; Vós houvéreis; Eles/elas/vocês houveram;</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 123 '>
+		<ENUNCIADO>Como seria a conjugação do verbo haver no Pretérito imperfeito do indicativo?</ENUNCIADO>
+		<ALTERNATIVA_A>Eu havia; Tu havias; Ele/ela/você havia; Nós havíamos; Vós havíeis; Eles/elas/vocês haviam;</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Se eu houvesse; Se tu houvesses; Se ele/ela/você houvesse; Se nós houvéssemos; Se vós houvésseis; Se eles/elas/vocês houvessem</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Que eu haja; Que tu hajas; Que ele/ela/você haja; Que nós hajamos; Que vós hajais; Que eles/elas/vocês hajam</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Não hajas tu; Não haja ele/ela/você; Não havamos nós; Não haveis vós; Não hajam eles/elas/vocês;Eles/elas/vocês houveram;</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Haja tu; Haja ele/ela/você; Havamos nós; Havei vós; Hajam eles/elas/vocês;</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 124 '>
+		<ENUNCIADO>Como seria a conjugação do verbo haver no Presente do subjuntivo?</ENUNCIADO>
+		<ALTERNATIVA_A>Que eu haja; Que tu hajas; Que ele/ela/você haja; Que nós hajamos; Que vós hajais; Que eles/elas/vocês hajam</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Eu havia; Tu havias; Ele/ela/você havia; Nós havíamos; Vós havíeis; Eles/elas/vocês haviam;</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Eu haverei; Tu haverás; Ele/ela/você haverá; Nós haveremos; Vós havereis; Eles/elas/vocês haverão</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Se eu houvesse; Se tu houvesses; Se ele/ela/você houvesse; Se nós houvéssemos; Se vós houvésseis; Se eles/elas/vocês houvessem</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Que eu haja; Que tu hajas; Que ele/ela/você haja; Que nós hajamos; Que vós hajais; Que eles/elas/vocês hajam</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 125 '>
+		<ENUNCIADO>Como seria a conjugação do verbo haver no Imperativo afirmativo?</ENUNCIADO>
+		<ALTERNATIVA_A>Haja tu; Haja ele/ela/você; Havamos nós; Havei vós; Hajam eles/elas/vocês;</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Eu haverei; Tu haverás; Ele/ela/você haverá; Nós haveremos; Vós havereis; Eles/elas/vocês haverão</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Se eu houvesse; Se tu houvesses; Se ele/ela/você houvesse; Se nós houvéssemos; Se vós houvésseis; Se eles/elas/vocês houvessem</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Eu haveria; Tu haverias; Ele/ela/você haveria; Nós haveríamos; Vós haveríeis; Eles/elas/vocês ; haveriam;</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Eu hei; Tu hás Ele/ela/você há; Nós havemos; Vós haveis; Eles/elas/vocês hão;</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 126 '>
+		<ENUNCIADO>Como seria a conjugação do verbo haver no Futuro do pretérito do indicativo?</ENUNCIADO>
+		<ALTERNATIVA_A>Eu haveria; Tu haverias; Ele/ela/você haveria; Nós haveríamos; Vós haveríeis; Eles/elas/vocês ; haveriam;</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Eu houvera; Tu houveras; Ele/ela/você houvera; Nós houvéramos; Vós houvéreis; Eles/elas/vocês houveram;</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Que eu haja; Que tu hajas; Que ele/ela/você haja; Que nós hajamos; Que vós hajais; Que eles/elas/vocês hajam</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Eu havia; Tu havias; Ele/ela/você havia; Nós havíamos; Vós havíeis; Eles/elas/vocês haviam;</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Haja tu; Haja ele/ela/você; Havamos nós; Havei vós; Hajam eles/elas/vocês;</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 127 '>
+		<ENUNCIADO>Como seria a conjugação do verbo haver no Imperativo negativo?</ENUNCIADO>
+		<ALTERNATIVA_A>Não hajas tu; Não haja ele/ela/você; Não havamos nós; Não haveis vós; Não hajam eles/elas/vocês;Eles/elas/vocês houveram;</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Que eu haja; Que tu hajas; Que ele/ela/você haja; Que nós hajamos; Que vós hajais; Que eles/elas/vocês hajam</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Quando eu houver; Quando tu houveres; Quando ele/ela/você houver; Quando nós houvermos; Quando vós houverdes; Quando eles/elas/vocês houverem</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Não hajas tu; Não haja ele/ela/você; Não havamos nós; Não haveis vós; Não hajam eles/elas/vocês;Eles/elas/vocês houveram;</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Haja tu; Haja ele/ela/você; Havamos nós; Havei vós; Hajam eles/elas/vocês;</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 128 '>
+		<ENUNCIADO>Como seria a conjugação do verbo haver no Futuro do subjuntivo?</ENUNCIADO>
+		<ALTERNATIVA_A>Quando eu houver; Quando tu houveres; Quando ele/ela/você houver; Quando nós houvermos; Quando vós houverdes; Quando eles/elas/vocês houverem</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Eu haveria; Tu haverias; Ele/ela/você haveria; Nós haveríamos; Vós haveríeis; Eles/elas/vocês ; haveriam;</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Quando eu houver; Quando tu houveres; Quando ele/ela/você houver; Quando nós houvermos; Quando vós houverdes; Quando eles/elas/vocês houverem</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Haja tu; Haja ele/ela/você; Havamos nós; Havei vós; Hajam eles/elas/vocês;</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Eu houvera; Tu houveras; Ele/ela/você houvera; Nós houvéramos; Vós houvéreis; Eles/elas/vocês houveram;</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 129 '>
+		<ENUNCIADO>Como seria a conjugação do verbo haver no Presente do subjuntivo?</ENUNCIADO>
+		<ALTERNATIVA_A>Que eu haja; Que tu hajas; Que ele/ela/você haja; Que nós hajamos; Que vós hajais; Que eles/elas/vocês hajam</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Quando eu houver; Quando tu houveres; Quando ele/ela/você houver; Quando nós houvermos; Quando vós houverdes; Quando eles/elas/vocês houverem</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Eu havia; Tu havias; Ele/ela/você havia; Nós havíamos; Vós havíeis; Eles/elas/vocês haviam;</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Haja tu; Haja ele/ela/você; Havamos nós; Havei vós; Hajam eles/elas/vocês;</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Eu hei; Tu hás Ele/ela/você há; Nós havemos; Vós haveis; Eles/elas/vocês hão;</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 130 '>
+		<ENUNCIADO>Como seria a conjugação do verbo haver no Pretérito mais-que-perfeito do indicativo?</ENUNCIADO>
+		<ALTERNATIVA_A>Eu houvera; Tu houveras; Ele/ela/você houvera; Nós houvéramos; Vós houvéreis; Eles/elas/vocês houveram;</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Eu houve; Tu houveste; Ele/ela/você houve; Nós houvemos; Vós houvestes; Eles/elas/vocês houveram;</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Que eu haja; Que tu hajas; Que ele/ela/você haja; Que nós hajamos; Que vós hajais; Que eles/elas/vocês hajam</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Haja tu; Haja ele/ela/você; Havamos nós; Havei vós; Hajam eles/elas/vocês;</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Eu haveria; Tu haverias; Ele/ela/você haveria; Nós haveríamos; Vós haveríeis; Eles/elas/vocês ; haveriam;</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 131 '>
+		<ENUNCIADO>Como seria a conjugação do verbo haver no Imperativo negativo?</ENUNCIADO>
+		<ALTERNATIVA_A>Não hajas tu; Não haja ele/ela/você; Não havamos nós; Não haveis vós; Não hajam eles/elas/vocês;Eles/elas/vocês houveram;</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Se eu houvesse; Se tu houvesses; Se ele/ela/você houvesse; Se nós houvéssemos; Se vós houvésseis; Se eles/elas/vocês houvessem</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Quando eu houver; Quando tu houveres; Quando ele/ela/você houver; Quando nós houvermos; Quando vós houverdes; Quando eles/elas/vocês houverem</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Que eu haja; Que tu hajas; Que ele/ela/você haja; Que nós hajamos; Que vós hajais; Que eles/elas/vocês hajam</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Eu haverei; Tu haverás; Ele/ela/você haverá; Nós haveremos; Vós havereis; Eles/elas/vocês haverão</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 132 '>
+		<ENUNCIADO>Como seria a conjugação do verbo haver no Pretérito imperfeito do indicativo?</ENUNCIADO>
+		<ALTERNATIVA_A>Eu havia; Tu havias; Ele/ela/você havia; Nós havíamos; Vós havíeis; Eles/elas/vocês haviam;</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Eu houvera; Tu houveras; Ele/ela/você houvera; Nós houvéramos; Vós houvéreis; Eles/elas/vocês houveram;</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Eu havia; Tu havias; Ele/ela/você havia; Nós havíamos; Vós havíeis; Eles/elas/vocês haviam;</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Se eu houvesse; Se tu houvesses; Se ele/ela/você houvesse; Se nós houvéssemos; Se vós houvésseis; Se eles/elas/vocês houvessem</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Que eu haja; Que tu hajas; Que ele/ela/você haja; Que nós hajamos; Que vós hajais; Que eles/elas/vocês hajam</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 133 '>
+		<ENUNCIADO>Como seria a conjugação do verbo haver no Presente do indicativo?</ENUNCIADO>
+		<ALTERNATIVA_A>Eu hei; Tu hás Ele/ela/você há; Nós havemos; Vós haveis; Eles/elas/vocês hão;</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Eu hei; Tu hás Ele/ela/você há; Nós havemos; Vós haveis; Eles/elas/vocês hão;</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Haja tu; Haja ele/ela/você; Havamos nós; Havei vós; Hajam eles/elas/vocês;</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Eu havia; Tu havias; Ele/ela/você havia; Nós havíamos; Vós havíeis; Eles/elas/vocês haviam;</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Eu houve; Tu houveste; Ele/ela/você houve; Nós houvemos; Vós houvestes; Eles/elas/vocês houveram;</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 134 '>
+		<ENUNCIADO>Como seria a conjugação do verbo haver no Pretérito perfeito do indicativo?</ENUNCIADO>
+		<ALTERNATIVA_A>Eu houve; Tu houveste; Ele/ela/você houve; Nós houvemos; Vós houvestes; Eles/elas/vocês houveram;</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Eu havia; Tu havias; Ele/ela/você havia; Nós havíamos; Vós havíeis; Eles/elas/vocês haviam;</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Eu haveria; Tu haverias; Ele/ela/você haveria; Nós haveríamos; Vós haveríeis; Eles/elas/vocês ; haveriam;</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Quando eu houver; Quando tu houveres; Quando ele/ela/você houver; Quando nós houvermos; Quando vós houverdes; Quando eles/elas/vocês houverem</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Eu haverei; Tu haverás; Ele/ela/você haverá; Nós haveremos; Vós havereis; Eles/elas/vocês haverão</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 135 '>
+		<ENUNCIADO>Como seria a conjugação do verbo haver no Presente do indicativo?</ENUNCIADO>
+		<ALTERNATIVA_A>Eu hei; Tu hás Ele/ela/você há; Nós havemos; Vós haveis; Eles/elas/vocês hão;</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Não hajas tu; Não haja ele/ela/você; Não havamos nós; Não haveis vós; Não hajam eles/elas/vocês;Eles/elas/vocês houveram;</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Eu hei; Tu hás Ele/ela/você há; Nós havemos; Vós haveis; Eles/elas/vocês hão;</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Quando eu houver; Quando tu houveres; Quando ele/ela/você houver; Quando nós houvermos; Quando vós houverdes; Quando eles/elas/vocês houverem</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Que eu haja; Que tu hajas; Que ele/ela/você haja; Que nós hajamos; Que vós hajais; Que eles/elas/vocês hajam</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 136 '>
+		<ENUNCIADO>Como seria a conjugação do verbo haver no Pretérito imperfeito do indicativo?</ENUNCIADO>
+		<ALTERNATIVA_A>Eu havia; Tu havias; Ele/ela/você havia; Nós havíamos; Vós havíeis; Eles/elas/vocês haviam;</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Eu havia; Tu havias; Ele/ela/você havia; Nós havíamos; Vós havíeis; Eles/elas/vocês haviam;</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Eu hei; Tu hás Ele/ela/você há; Nós havemos; Vós haveis; Eles/elas/vocês hão;</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Haja tu; Haja ele/ela/você; Havamos nós; Havei vós; Hajam eles/elas/vocês;</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Que eu haja; Que tu hajas; Que ele/ela/você haja; Que nós hajamos; Que vós hajais; Que eles/elas/vocês hajam</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 137 '>
+		<ENUNCIADO>Como seria a conjugação do verbo haver no Imperativo negativo?</ENUNCIADO>
+		<ALTERNATIVA_A>Não hajas tu; Não haja ele/ela/você; Não havamos nós; Não haveis vós; Não hajam eles/elas/vocês;Eles/elas/vocês houveram;</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Se eu houvesse; Se tu houvesses; Se ele/ela/você houvesse; Se nós houvéssemos; Se vós houvésseis; Se eles/elas/vocês houvessem</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Não hajas tu; Não haja ele/ela/você; Não havamos nós; Não haveis vós; Não hajam eles/elas/vocês;Eles/elas/vocês houveram;</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Eu houve; Tu houveste; Ele/ela/você houve; Nós houvemos; Vós houvestes; Eles/elas/vocês houveram;</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Haja tu; Haja ele/ela/você; Havamos nós; Havei vós; Hajam eles/elas/vocês;</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 138 '>
+		<ENUNCIADO>Como seria a conjugação do verbo haver no Imperativo afirmativo?</ENUNCIADO>
+		<ALTERNATIVA_A>Haja tu; Haja ele/ela/você; Havamos nós; Havei vós; Hajam eles/elas/vocês;</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Eu hei; Tu hás Ele/ela/você há; Nós havemos; Vós haveis; Eles/elas/vocês hão;</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Que eu haja; Que tu hajas; Que ele/ela/você haja; Que nós hajamos; Que vós hajais; Que eles/elas/vocês hajam</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Eu haverei; Tu haverás; Ele/ela/você haverá; Nós haveremos; Vós havereis; Eles/elas/vocês haverão</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Se eu houvesse; Se tu houvesses; Se ele/ela/você houvesse; Se nós houvéssemos; Se vós houvésseis; Se eles/elas/vocês houvessem</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 139 '>
+		<ENUNCIADO>Como seria a conjugação do verbo haver no Pretérito imperfeito do subjuntivo?</ENUNCIADO>
+		<ALTERNATIVA_A>Se eu houvesse; Se tu houvesses; Se ele/ela/você houvesse; Se nós houvéssemos; Se vós houvésseis; Se eles/elas/vocês houvessem</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Eu houvera; Tu houveras; Ele/ela/você houvera; Nós houvéramos; Vós houvéreis; Eles/elas/vocês houveram;</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Eu haverei; Tu haverás; Ele/ela/você haverá; Nós haveremos; Vós havereis; Eles/elas/vocês haverão</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Que eu haja; Que tu hajas; Que ele/ela/você haja; Que nós hajamos; Que vós hajais; Que eles/elas/vocês hajam</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Quando eu houver; Quando tu houveres; Quando ele/ela/você houver; Quando nós houvermos; Quando vós houverdes; Quando eles/elas/vocês houverem</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 140 '>
+		<ENUNCIADO>Como seria a conjugação do verbo haver no Imperativo afirmativo?</ENUNCIADO>
+		<ALTERNATIVA_A>Haja tu; Haja ele/ela/você; Havamos nós; Havei vós; Hajam eles/elas/vocês;</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Eu houve; Tu houveste; Ele/ela/você houve; Nós houvemos; Vós houvestes; Eles/elas/vocês houveram;</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Não hajas tu; Não haja ele/ela/você; Não havamos nós; Não haveis vós; Não hajam eles/elas/vocês;Eles/elas/vocês houveram;</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Eu hei; Tu hás Ele/ela/você há; Nós havemos; Vós haveis; Eles/elas/vocês hão;</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Quando eu houver; Quando tu houveres; Quando ele/ela/você houver; Quando nós houvermos; Quando vós houverdes; Quando eles/elas/vocês houverem</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 141 '>
+		<ENUNCIADO>Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 8.9286 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis. Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é</ENUNCIADO>
+		<ALTERNATIVA_A>8</ALTERNATIVA_A>
+		<ALTERNATIVA_B>9</ALTERNATIVA_B>
+		<ALTERNATIVA_C>11</ALTERNATIVA_C>
+		<ALTERNATIVA_D>18</ALTERNATIVA_D>
+		<ALTERNATIVA_E>24</ALTERNATIVA_E>
+		<CORRETA>B</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 142 '>
+		<ENUNCIADO>Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 15.625 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis. Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é</ENUNCIADO>
+		<ALTERNATIVA_A>8</ALTERNATIVA_A>
+		<ALTERNATIVA_B>9</ALTERNATIVA_B>
+		<ALTERNATIVA_C>11</ALTERNATIVA_C>
+		<ALTERNATIVA_D>18</ALTERNATIVA_D>
+		<ALTERNATIVA_E>24</ALTERNATIVA_E>
+		<CORRETA>D</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 143 '>
+		<ENUNCIADO>Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 10.4167 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis. Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é</ENUNCIADO>
+		<ALTERNATIVA_A>8</ALTERNATIVA_A>
+		<ALTERNATIVA_B>9</ALTERNATIVA_B>
+		<ALTERNATIVA_C>11</ALTERNATIVA_C>
+		<ALTERNATIVA_D>18</ALTERNATIVA_D>
+		<ALTERNATIVA_E>24</ALTERNATIVA_E>
+		<CORRETA>C</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 144 '>
+		<ENUNCIADO>Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 12.5 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis. Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é</ENUNCIADO>
+		<ALTERNATIVA_A>8</ALTERNATIVA_A>
+		<ALTERNATIVA_B>9</ALTERNATIVA_B>
+		<ALTERNATIVA_C>11</ALTERNATIVA_C>
+		<ALTERNATIVA_D>18</ALTERNATIVA_D>
+		<ALTERNATIVA_E>24</ALTERNATIVA_E>
+		<CORRETA>D</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 145 '>
+		<ENUNCIADO>Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 7.8125 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis. Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é</ENUNCIADO>
+		<ALTERNATIVA_A>8</ALTERNATIVA_A>
+		<ALTERNATIVA_B>9</ALTERNATIVA_B>
+		<ALTERNATIVA_C>11</ALTERNATIVA_C>
+		<ALTERNATIVA_D>18</ALTERNATIVA_D>
+		<ALTERNATIVA_E>24</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 146 '>
+		<ENUNCIADO>Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 8.9286 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis. Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é</ENUNCIADO>
+		<ALTERNATIVA_A>8</ALTERNATIVA_A>
+		<ALTERNATIVA_B>9</ALTERNATIVA_B>
+		<ALTERNATIVA_C>11</ALTERNATIVA_C>
+		<ALTERNATIVA_D>18</ALTERNATIVA_D>
+		<ALTERNATIVA_E>24</ALTERNATIVA_E>
+		<CORRETA>B</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 147 '>
+		<ENUNCIADO>Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 10.4167 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis. Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é</ENUNCIADO>
+		<ALTERNATIVA_A>8</ALTERNATIVA_A>
+		<ALTERNATIVA_B>9</ALTERNATIVA_B>
+		<ALTERNATIVA_C>11</ALTERNATIVA_C>
+		<ALTERNATIVA_D>18</ALTERNATIVA_D>
+		<ALTERNATIVA_E>24</ALTERNATIVA_E>
+		<CORRETA>C</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 148 '>
+		<ENUNCIADO>Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 10.4167 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis. Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é</ENUNCIADO>
+		<ALTERNATIVA_A>8</ALTERNATIVA_A>
+		<ALTERNATIVA_B>9</ALTERNATIVA_B>
+		<ALTERNATIVA_C>11</ALTERNATIVA_C>
+		<ALTERNATIVA_D>18</ALTERNATIVA_D>
+		<ALTERNATIVA_E>24</ALTERNATIVA_E>
+		<CORRETA>C</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 149 '>
+		<ENUNCIADO>Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 20.8333 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis. Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é</ENUNCIADO>
+		<ALTERNATIVA_A>8</ALTERNATIVA_A>
+		<ALTERNATIVA_B>9</ALTERNATIVA_B>
+		<ALTERNATIVA_C>11</ALTERNATIVA_C>
+		<ALTERNATIVA_D>18</ALTERNATIVA_D>
+		<ALTERNATIVA_E>24</ALTERNATIVA_E>
+		<CORRETA>E</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 150 '>
+		<ENUNCIADO>Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 12.5 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis. Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é</ENUNCIADO>
+		<ALTERNATIVA_A>8</ALTERNATIVA_A>
+		<ALTERNATIVA_B>9</ALTERNATIVA_B>
+		<ALTERNATIVA_C>11</ALTERNATIVA_C>
+		<ALTERNATIVA_D>18</ALTERNATIVA_D>
+		<ALTERNATIVA_E>24</ALTERNATIVA_E>
+		<CORRETA>D</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 151 '>
+		<ENUNCIADO>Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 15.625 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis. Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é</ENUNCIADO>
+		<ALTERNATIVA_A>8</ALTERNATIVA_A>
+		<ALTERNATIVA_B>9</ALTERNATIVA_B>
+		<ALTERNATIVA_C>11</ALTERNATIVA_C>
+		<ALTERNATIVA_D>18</ALTERNATIVA_D>
+		<ALTERNATIVA_E>24</ALTERNATIVA_E>
+		<CORRETA>D</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 152 '>
+		<ENUNCIADO>Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 15.625 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis. Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é</ENUNCIADO>
+		<ALTERNATIVA_A>8</ALTERNATIVA_A>
+		<ALTERNATIVA_B>9</ALTERNATIVA_B>
+		<ALTERNATIVA_C>11</ALTERNATIVA_C>
+		<ALTERNATIVA_D>18</ALTERNATIVA_D>
+		<ALTERNATIVA_E>24</ALTERNATIVA_E>
+		<CORRETA>D</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 153 '>
+		<ENUNCIADO>Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 10.4167 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis. Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é</ENUNCIADO>
+		<ALTERNATIVA_A>8</ALTERNATIVA_A>
+		<ALTERNATIVA_B>9</ALTERNATIVA_B>
+		<ALTERNATIVA_C>11</ALTERNATIVA_C>
+		<ALTERNATIVA_D>18</ALTERNATIVA_D>
+		<ALTERNATIVA_E>24</ALTERNATIVA_E>
+		<CORRETA>C</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 154 '>
+		<ENUNCIADO>Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 20.8333 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis. Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é</ENUNCIADO>
+		<ALTERNATIVA_A>8</ALTERNATIVA_A>
+		<ALTERNATIVA_B>9</ALTERNATIVA_B>
+		<ALTERNATIVA_C>11</ALTERNATIVA_C>
+		<ALTERNATIVA_D>18</ALTERNATIVA_D>
+		<ALTERNATIVA_E>24</ALTERNATIVA_E>
+		<CORRETA>E</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 155 '>
+		<ENUNCIADO>Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 8.9286 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis. Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é</ENUNCIADO>
+		<ALTERNATIVA_A>8</ALTERNATIVA_A>
+		<ALTERNATIVA_B>9</ALTERNATIVA_B>
+		<ALTERNATIVA_C>11</ALTERNATIVA_C>
+		<ALTERNATIVA_D>18</ALTERNATIVA_D>
+		<ALTERNATIVA_E>24</ALTERNATIVA_E>
+		<CORRETA>B</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 156 '>
+		<ENUNCIADO>Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 7.8125 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis. Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é</ENUNCIADO>
+		<ALTERNATIVA_A>8</ALTERNATIVA_A>
+		<ALTERNATIVA_B>9</ALTERNATIVA_B>
+		<ALTERNATIVA_C>11</ALTERNATIVA_C>
+		<ALTERNATIVA_D>18</ALTERNATIVA_D>
+		<ALTERNATIVA_E>24</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 157 '>
+		<ENUNCIADO>Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 12.5 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis. Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é</ENUNCIADO>
+		<ALTERNATIVA_A>8</ALTERNATIVA_A>
+		<ALTERNATIVA_B>9</ALTERNATIVA_B>
+		<ALTERNATIVA_C>11</ALTERNATIVA_C>
+		<ALTERNATIVA_D>18</ALTERNATIVA_D>
+		<ALTERNATIVA_E>24</ALTERNATIVA_E>
+		<CORRETA>D</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 158 '>
+		<ENUNCIADO>Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 12.5 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis. Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é</ENUNCIADO>
+		<ALTERNATIVA_A>8</ALTERNATIVA_A>
+		<ALTERNATIVA_B>9</ALTERNATIVA_B>
+		<ALTERNATIVA_C>11</ALTERNATIVA_C>
+		<ALTERNATIVA_D>18</ALTERNATIVA_D>
+		<ALTERNATIVA_E>24</ALTERNATIVA_E>
+		<CORRETA>D</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 159 '>
+		<ENUNCIADO>Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 10.4167 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis. Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é</ENUNCIADO>
+		<ALTERNATIVA_A>8</ALTERNATIVA_A>
+		<ALTERNATIVA_B>9</ALTERNATIVA_B>
+		<ALTERNATIVA_C>11</ALTERNATIVA_C>
+		<ALTERNATIVA_D>18</ALTERNATIVA_D>
+		<ALTERNATIVA_E>24</ALTERNATIVA_E>
+		<CORRETA>C</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 160 '>
+		<ENUNCIADO>Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 10.4167 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis. Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é</ENUNCIADO>
+		<ALTERNATIVA_A>8</ALTERNATIVA_A>
+		<ALTERNATIVA_B>9</ALTERNATIVA_B>
+		<ALTERNATIVA_C>11</ALTERNATIVA_C>
+		<ALTERNATIVA_D>18</ALTERNATIVA_D>
+		<ALTERNATIVA_E>24</ALTERNATIVA_E>
+		<CORRETA>C</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 161 '>
+		<ENUNCIADO>O número atômico do elemento químico Califórnio é:</ENUNCIADO>
+		<ALTERNATIVA_A>98</ALTERNATIVA_A>
+		<ALTERNATIVA_B>80</ALTERNATIVA_B>
+		<ALTERNATIVA_C>96</ALTERNATIVA_C>
+		<ALTERNATIVA_D>113</ALTERNATIVA_D>
+		<ALTERNATIVA_E>74</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 162 '>
+		<ENUNCIADO>O número atômico do elemento químico Mercúrio é:</ENUNCIADO>
+		<ALTERNATIVA_A>80</ALTERNATIVA_A>
+		<ALTERNATIVA_B>4</ALTERNATIVA_B>
+		<ALTERNATIVA_C>57</ALTERNATIVA_C>
+		<ALTERNATIVA_D>18</ALTERNATIVA_D>
+		<ALTERNATIVA_E>17</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 163 '>
+		<ENUNCIADO>O número atômico do elemento químico Arsênio é:</ENUNCIADO>
+		<ALTERNATIVA_A>33</ALTERNATIVA_A>
+		<ALTERNATIVA_B>80</ALTERNATIVA_B>
+		<ALTERNATIVA_C>24</ALTERNATIVA_C>
+		<ALTERNATIVA_D>38</ALTERNATIVA_D>
+		<ALTERNATIVA_E>50</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 164 '>
+		<ENUNCIADO>O número atômico do elemento químico Rubídio é:</ENUNCIADO>
+		<ALTERNATIVA_A>37</ALTERNATIVA_A>
+		<ALTERNATIVA_B>78</ALTERNATIVA_B>
+		<ALTERNATIVA_C>86</ALTERNATIVA_C>
+		<ALTERNATIVA_D>52</ALTERNATIVA_D>
+		<ALTERNATIVA_E>82</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 165 '>
+		<ENUNCIADO>O número atômico do elemento químico Rubídio é:</ENUNCIADO>
+		<ALTERNATIVA_A>37</ALTERNATIVA_A>
+		<ALTERNATIVA_B>40</ALTERNATIVA_B>
+		<ALTERNATIVA_C>11</ALTERNATIVA_C>
+		<ALTERNATIVA_D>24</ALTERNATIVA_D>
+		<ALTERNATIVA_E>105</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 166 '>
+		<ENUNCIADO>O número atômico do elemento químico Férmio é:</ENUNCIADO>
+		<ALTERNATIVA_A>100</ALTERNATIVA_A>
+		<ALTERNATIVA_B>16</ALTERNATIVA_B>
+		<ALTERNATIVA_C>29</ALTERNATIVA_C>
+		<ALTERNATIVA_D>100</ALTERNATIVA_D>
+		<ALTERNATIVA_E>22</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 167 '>
+		<ENUNCIADO>O número atômico do elemento químico Gálio é:</ENUNCIADO>
+		<ALTERNATIVA_A>31</ALTERNATIVA_A>
+		<ALTERNATIVA_B>33</ALTERNATIVA_B>
+		<ALTERNATIVA_C>52</ALTERNATIVA_C>
+		<ALTERNATIVA_D>30</ALTERNATIVA_D>
+		<ALTERNATIVA_E>75</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 168 '>
+		<ENUNCIADO>O número atômico do elemento químico Amerício é:</ENUNCIADO>
+		<ALTERNATIVA_A>95</ALTERNATIVA_A>
+		<ALTERNATIVA_B>51</ALTERNATIVA_B>
+		<ALTERNATIVA_C>9</ALTERNATIVA_C>
+		<ALTERNATIVA_D>62</ALTERNATIVA_D>
+		<ALTERNATIVA_E>41</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 169 '>
+		<ENUNCIADO>O número atômico do elemento químico Prata é:</ENUNCIADO>
+		<ALTERNATIVA_A>47</ALTERNATIVA_A>
+		<ALTERNATIVA_B>15</ALTERNATIVA_B>
+		<ALTERNATIVA_C>30</ALTERNATIVA_C>
+		<ALTERNATIVA_D>61</ALTERNATIVA_D>
+		<ALTERNATIVA_E>106</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 170 '>
+		<ENUNCIADO>O número atômico do elemento químico Darmstádio é:</ENUNCIADO>
+		<ALTERNATIVA_A>110</ALTERNATIVA_A>
+		<ALTERNATIVA_B>6</ALTERNATIVA_B>
+		<ALTERNATIVA_C>76</ALTERNATIVA_C>
+		<ALTERNATIVA_D>20</ALTERNATIVA_D>
+		<ALTERNATIVA_E>70</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 171 '>
+		<ENUNCIADO>O número atômico do elemento químico Astato é:</ENUNCIADO>
+		<ALTERNATIVA_A>85</ALTERNATIVA_A>
+		<ALTERNATIVA_B>75</ALTERNATIVA_B>
+		<ALTERNATIVA_C>56</ALTERNATIVA_C>
+		<ALTERNATIVA_D>85</ALTERNATIVA_D>
+		<ALTERNATIVA_E>70</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 172 '>
+		<ENUNCIADO>O número atômico do elemento químico Índio é:</ENUNCIADO>
+		<ALTERNATIVA_A>49</ALTERNATIVA_A>
+		<ALTERNATIVA_B>85</ALTERNATIVA_B>
+		<ALTERNATIVA_C>100</ALTERNATIVA_C>
+		<ALTERNATIVA_D>45</ALTERNATIVA_D>
+		<ALTERNATIVA_E>88</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 173 '>
+		<ENUNCIADO>O número atômico do elemento químico Polônio é:</ENUNCIADO>
+		<ALTERNATIVA_A>84</ALTERNATIVA_A>
+		<ALTERNATIVA_B>50</ALTERNATIVA_B>
+		<ALTERNATIVA_C>32</ALTERNATIVA_C>
+		<ALTERNATIVA_D>57</ALTERNATIVA_D>
+		<ALTERNATIVA_E>58</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 174 '>
+		<ENUNCIADO>O número atômico do elemento químico Rutherfórdio é:</ENUNCIADO>
+		<ALTERNATIVA_A>104</ALTERNATIVA_A>
+		<ALTERNATIVA_B>108</ALTERNATIVA_B>
+		<ALTERNATIVA_C>73</ALTERNATIVA_C>
+		<ALTERNATIVA_D>51</ALTERNATIVA_D>
+		<ALTERNATIVA_E>18</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 175 '>
+		<ENUNCIADO>O número atômico do elemento químico Alumínio é:</ENUNCIADO>
+		<ALTERNATIVA_A>13</ALTERNATIVA_A>
+		<ALTERNATIVA_B>19</ALTERNATIVA_B>
+		<ALTERNATIVA_C>82</ALTERNATIVA_C>
+		<ALTERNATIVA_D>91</ALTERNATIVA_D>
+		<ALTERNATIVA_E>53</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 176 '>
+		<ENUNCIADO>O número atômico do elemento químico Estrôncio é:</ENUNCIADO>
+		<ALTERNATIVA_A>38</ALTERNATIVA_A>
+		<ALTERNATIVA_B>115</ALTERNATIVA_B>
+		<ALTERNATIVA_C>33</ALTERNATIVA_C>
+		<ALTERNATIVA_D>47</ALTERNATIVA_D>
+		<ALTERNATIVA_E>9</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 177 '>
+		<ENUNCIADO>O número atômico do elemento químico Cádmio é:</ENUNCIADO>
+		<ALTERNATIVA_A>48</ALTERNATIVA_A>
+		<ALTERNATIVA_B>115</ALTERNATIVA_B>
+		<ALTERNATIVA_C>94</ALTERNATIVA_C>
+		<ALTERNATIVA_D>65</ALTERNATIVA_D>
+		<ALTERNATIVA_E>112</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 178 '>
+		<ENUNCIADO>O número atômico do elemento químico Enxofre é:</ENUNCIADO>
+		<ALTERNATIVA_A>16</ALTERNATIVA_A>
+		<ALTERNATIVA_B>65</ALTERNATIVA_B>
+		<ALTERNATIVA_C>58</ALTERNATIVA_C>
+		<ALTERNATIVA_D>77</ALTERNATIVA_D>
+		<ALTERNATIVA_E>19</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 179 '>
+		<ENUNCIADO>O número atômico do elemento químico Mendelévio é:</ENUNCIADO>
+		<ALTERNATIVA_A>101</ALTERNATIVA_A>
+		<ALTERNATIVA_B>73</ALTERNATIVA_B>
+		<ALTERNATIVA_C>64</ALTERNATIVA_C>
+		<ALTERNATIVA_D>43</ALTERNATIVA_D>
+		<ALTERNATIVA_E>6</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 180 '>
+		<ENUNCIADO>O número atômico do elemento químico Tenessino é:</ENUNCIADO>
+		<ALTERNATIVA_A>117</ALTERNATIVA_A>
+		<ALTERNATIVA_B>14</ALTERNATIVA_B>
+		<ALTERNATIVA_C>57</ALTERNATIVA_C>
+		<ALTERNATIVA_D>39</ALTERNATIVA_D>
+		<ALTERNATIVA_E>55</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 181 '>
+		<ENUNCIADO>O símbolo do elemento químico Hidrogênio é:</ENUNCIADO>
+		<ALTERNATIVA_A>H</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Rb</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Pu</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Ir</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Ts</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 182 '>
+		<ENUNCIADO>O símbolo do elemento químico Gálio é:</ENUNCIADO>
+		<ALTERNATIVA_A>Ga</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Cs</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Sn</ALTERNATIVA_C>
+		<ALTERNATIVA_D>K</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Gd</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 183 '>
+		<ENUNCIADO>O símbolo do elemento químico Xenônio é:</ENUNCIADO>
+		<ALTERNATIVA_A>Xe</ALTERNATIVA_A>
+		<ALTERNATIVA_B>N</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Ti</ALTERNATIVA_C>
+		<ALTERNATIVA_D>La</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Ts</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 184 '>
+		<ENUNCIADO>O símbolo do elemento químico Seabórgio é:</ENUNCIADO>
+		<ALTERNATIVA_A>Sg</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Bk</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Ga</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Sm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>No</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 185 '>
+		<ENUNCIADO>O símbolo do elemento químico Hássio é:</ENUNCIADO>
+		<ALTERNATIVA_A>Hs</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Ni</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Sm</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Be</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Fl</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 186 '>
+		<ENUNCIADO>O símbolo do elemento químico Darmstádio é:</ENUNCIADO>
+		<ALTERNATIVA_A>Ds</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Th</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Cd</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Ni</ALTERNATIVA_D>
+		<ALTERNATIVA_E>C</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 187 '>
+		<ENUNCIADO>O símbolo do elemento químico Hássio é:</ENUNCIADO>
+		<ALTERNATIVA_A>Hs</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Ru</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Bh</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Ag</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Rg</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 188 '>
+		<ENUNCIADO>O símbolo do elemento químico Radônio é:</ENUNCIADO>
+		<ALTERNATIVA_A>Rn</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Cm</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Cr</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Se</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Mc</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 189 '>
+		<ENUNCIADO>O símbolo do elemento químico Oganessônio é:</ENUNCIADO>
+		<ALTERNATIVA_A>Og</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Lv</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Md</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Mn</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Hs</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 190 '>
+		<ENUNCIADO>O símbolo do elemento químico Urânio é:</ENUNCIADO>
+		<ALTERNATIVA_A>U</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Md</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Rf</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Cs</ALTERNATIVA_D>
+		<ALTERNATIVA_E>V</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 191 '>
+		<ENUNCIADO>O símbolo do elemento químico Manganês é:</ENUNCIADO>
+		<ALTERNATIVA_A>Mn</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Db</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Cs</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Tl</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Nb</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 192 '>
+		<ENUNCIADO>O símbolo do elemento químico Térbio é:</ENUNCIADO>
+		<ALTERNATIVA_A>Tb</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Na</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Au</ALTERNATIVA_C>
+		<ALTERNATIVA_D>O</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Tc</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 193 '>
+		<ENUNCIADO>O símbolo do elemento químico Rádio é:</ENUNCIADO>
+		<ALTERNATIVA_A>Ra</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Md</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Cs</ALTERNATIVA_C>
+		<ALTERNATIVA_D>La</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Cd</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 194 '>
+		<ENUNCIADO>O símbolo do elemento químico Actínio é:</ENUNCIADO>
+		<ALTERNATIVA_A>Ac</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Sr</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Be</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Pt</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Og</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 195 '>
+		<ENUNCIADO>O símbolo do elemento químico Ródio é:</ENUNCIADO>
+		<ALTERNATIVA_A>Rh</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Md</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Rf</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Nb</ALTERNATIVA_D>
+		<ALTERNATIVA_E>O</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 196 '>
+		<ENUNCIADO>O símbolo do elemento químico Astato é:</ENUNCIADO>
+		<ALTERNATIVA_A>At</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Ta</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Og</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Hf</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Cl</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 197 '>
+		<ENUNCIADO>O símbolo do elemento químico Arsênio é:</ENUNCIADO>
+		<ALTERNATIVA_A>As</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Cr</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Rh</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Cn</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Yb</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 198 '>
+		<ENUNCIADO>O símbolo do elemento químico Césio é:</ENUNCIADO>
+		<ALTERNATIVA_A>Cs</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Ca</ALTERNATIVA_B>
+		<ALTERNATIVA_C>U</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Zn</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Am</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 199 '>
+		<ENUNCIADO>O símbolo do elemento químico Astato é:</ENUNCIADO>
+		<ALTERNATIVA_A>At</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Mo</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Ra</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Zn</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Es</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+
+	<QUESTAO qtsNo=' 200 '>
+		<ENUNCIADO>O símbolo do elemento químico Boro é:</ENUNCIADO>
+		<ALTERNATIVA_A>B</ALTERNATIVA_A>
+		<ALTERNATIVA_B>Sb</ALTERNATIVA_B>
+		<ALTERNATIVA_C>Cd</ALTERNATIVA_C>
+		<ALTERNATIVA_D>Sm</ALTERNATIVA_D>
+		<ALTERNATIVA_E>Lr</ALTERNATIVA_E>
+		<CORRETA>A</CORRETA>
+	</QUESTAO>
+
+</QUESTOES>
